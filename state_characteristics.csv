@@ -1,0 +1,956 @@
+STATE,NAME,row,functioning_counties,functioning_mcds,functioning_places,functioning_aianas,county_equivalents,census_county_divisions,nonfunctioning_cdps_incorporated_places,nonfunctioning_aianas,census_tracts,block_groups,blocks,all_counties,all_county_divisions,all_places,all_aianas
+0,United States,Number,3068,17870,19483,337,75,17668,12134,367,84414,239780,8132968,3143,35538,31617,704
+0,United States,Average per State,64,851,398,9,8,353,238,26,1655,4702,159470,62,697,620,17
+0,United States,Number with 0 Population,0,3,6,23,0,82,42,19,566,1343,2363026,0,85,48,42
+0,United States,Median Population (Non-0),25505,829,1129,537,46553,2671,684,362,3775,1264,28,25698,1418,933,324
+0,United States,Mean Population (Non-0),103487,4117,10546,3438,186006,14664,3668,11603,3953,1390,57,105456,9327,7899,7269
+0,United States,1st Decile (>0) Lowest Population,64,1,1,2,2365,1,1,1,1,1,1,64,1,1,1
+0,United States,1st Decile (>0) Median Population,2573,36,79,11,4857,91,43,2,1601,617,3,2616.5,48,61,5
+0,United States,1st Decile (>0) Highest Population,4826,67,134,28,5737,205,76,16,1989,713,5,4919,106,105,24
+0,United States,2nd Decile Highest Population,8673,173,263,92,8180,523,152,63,2532,859,9,8666,269,208,73
+0,United States,3rd Decile Highest Population,13127,310,443,154,15425,997,253,111,2973,992,13,13232,521,358,133
+0,United States,4th Decile Highest Population,18583,523,714,233,24146,1721,410,205,3379,1125,19,18662,892,582,221
+0,United States,5th Decile Highest Population,25493,828,1128,535,46553,2670,683,358,3775,1263,27,25698,1426,936,411
+0,United States,6th Decile Highest Population,36649,1241,1890,819,94324,4008,1150,509,4188,1417,38,36787,2267,1573,655
+0,United States,7th Decile Highest Population,52552,1874,3435,1562,159467,6266,2025,809,4666,1600,52,53404,3656,2763,1145
+0,United States,8th Decile Highest Population,93076,3211,7185,3494,238005,10920,3703,1916,5261,1841,74,96016,6524,5478,3227
+0,United States,9th Decile Highest Population,211668,7254,18856,7819,689545,24847,8566,6901,6127,2221,123,218245,15345,13927,7639
+0,United States,10th Decile Median Population,430064,15262.5,40269,12321,864835,53570.5,15421,27656.5,6859,2569,198,456609.5,31676,28639,21893.5
+0,United States,10th Decile Mean Population,696032,29948,82747,24096,974804,109145,24639,111272,7255,2799,279,707068,71494,61364,68771
+0,United States,10th Decile Highest Population,10014009,2736074,8804190,165158,1632002,3464066,887642,813184,37892,37892,8727,10014009,3464066,8804190,813184
+1,Alabama,Number,67,0,462,2,0,390,131,6,1437,3925,185976,67,390,593,8
+1,Alabama,Number with 0 Population,0,0,0,0,0,0,0,0,3,4,57610,0,0,0,0
+1,Alabama,Median Population (Non-0),34772,0,1283,194,0,4893,746,17651,3369,1172,19,34772,4893,1119,9677
+1,Alabama,Mean Population (Non-0),74989,0,6680,194,0,12883,1811,31645,3504,1281,39,74989,12883,5604,23783
+1,Alabama,1st Decile (>0) Lowest Population,7730,,14,,,338,22,,2,2,1,7730,338,14,
+1,Alabama,1st Decile (>0) Median Population,10334,,114,,,926,71,,1366,528,3,10334,926,100,
+1,Alabama,1st Decile (>0) Highest Population,10600,,170,,,1417,132,,1642,631,4,10600,1417,159,
+1,Alabama,2nd Decile Highest Population,14785,,316,,,2143,170,5482,2172,776,7,14785,2143,258,107
+1,Alabama,3rd Decile Highest Population,19323,,548,,,3172,241,6184,2638,906,10,19323,3172,445,281
+1,Alabama,4th Decile Highest Population,24971,,806,107,,3998,399,,3066,1036,14,24971,3998,746,5482
+1,Alabama,5th Decile Highest Population,34772,,1280,,,4890,746,13170,3367,1172,18,34772,4890,1104,6184
+1,Alabama,6th Decile Highest Population,49326,,1982,,,6076,1084,22131,3754,1319,25,49326,6076,1825,13170
+1,Alabama,7th Decile Highest Population,65342,,3176,281,,8595,1661,,4186,1478,34,65342,8595,2624,22131
+1,Alabama,8th Decile Highest Population,97612,,6457,,,12605,2903,57896,4635,1725,48,97612,12605,4941,57896
+1,Alabama,9th Decile Highest Population,223024,,15014,,,24489,4940,85009,5436,2074,82,223024,24489,12578,85009
+1,Alabama,10th Decile Median Population,309960,,25712.5,,,45070,7406,,6035,2392,134,309960,45070,21564,
+1,Alabama,10th Decile Mean Population,360907,,45966,,,74117,8583,,6408,2561,191,360907,74117,38994,
+1,Alabama,10th Decile Highest Population,674721,,215006,,,447941,17731,,11650,5534,2635,674721,447941,215006,
+2,Alaska,Number,19,0,149,1,11,37,206,221,177,504,28568,30,37,355,222
+2,Alaska,Number with 0 Population,0,0,0,0,0,0,5,4,0,0,16803,0,0,5,4
+2,Alaska,Median Population (Non-0),7793,0,413,1562,5753,4120,161,212,4318,1242,30,6281,4120,247,212
+2,Alaska,Mean Population (Non-0),34539,0,3344,1562,7014,19821,1087,1238,4143,1455,62,24446,19821,2019,1217
+2,Alaska,1st Decile (>0) Lowest Population,662,,21,,2365,71,1,1,5,5,1,662,71,1,1
+2,Alaska,1st Decile (>0) Median Population,753,,53,,2365,87,7.5,2,957,521,2,844,87,15,2
+2,Alaska,1st Decile (>0) Highest Population,844,,78,,2365,662,15,23,1456,666,4,1240,662,25,23
+2,Alaska,2nd Decile Highest Population,1476,,127,,2617,1240,35,62,2124,824,9,2080,1240,60,62
+2,Alaska,3rd Decile Highest Population,2080,,206,,4857,1619,60,97,2730,970,14,2617,1619,99,97
+2,Alaska,4th Decile Highest Population,3398,,276,,5232,2617,96,152,3459,1112,21,4857,2617,169,152
+2,Alaska,5th Decile Highest Population,7793,,413,1562,5753,4120,161,212,4318,1240,29,5753,4120,253,212
+2,Alaska,6th Decile Highest Population,11031,,509,,6808,5914,254,357,4716,1446,41,7793,5914,428,357
+2,Alaska,7th Decile Highest Population,13948,,640,,7102,8368,525,456,5165,1655,56,10046,8368,615,462
+2,Alaska,8th Decile Highest Population,58799,,835,,8368,13101,1103,615,5746,1962,82,13948,13101,1021,621
+2,Alaska,9th Decile Highest Population,107081,,3985,,10046,52885,2747,931,6817,2494,145,58799,52885,3102,951
+2,Alaska,10th Decile Median Population,291247,,6874.5,,18666,107081,5833,3794,7470,2956,232,107081,107081,5918,3794
+2,Alaska,10th Decile Mean Population,291247,,30427,,18666,164661,7357,10315,7883,3329,297,164661,164661,16508,10344
+2,Alaska,10th Decile Highest Population,291247,,291247,,18666,291247,19297,81495,10885,9798,1637,291247,291247,291247,81495
+4,Arizona,Number,15,0,91,21,0,80,376,0,1765,4773,155444,15,80,467,21
+4,Arizona,Number with 0 Population,0,0,0,0,0,0,2,0,12,18,47506,0,0,2,0
+4,Arizona,Median Population (Non-0),125447,0,9005,1234,0,12178,506,0,3989,1412,40,125447,12178,742,1234
+4,Arizona,Mean Population (Non-0),476767,0,62954,8262,0,89394,2572,0,4080,1504,66,476767,89394,14327,8262
+4,Arizona,1st Decile (>0) Lowest Population,9563,,296,1,,8,2,,1,1,1,9563,8,2,1
+4,Arizona,1st Decile (>0) Median Population,9563,,694,11.5,,492.5,34.5,,1527,593,4,9563,492.5,39,11.5
+4,Arizona,1st Decile (>0) Highest Population,9563,,1323,22,,1816,54,,2024,746,6,9563,1816,75,22
+4,Arizona,2nd Decile Highest Population,38533,,2478,200,,3207,124,,2650,958,13,38533,3207,154,200
+4,Arizona,3rd Decile Highest Population,47669,,3995,221,,5531,189,,3159,1121,21,47669,5531,296,221
+4,Arizona,4th Decile Highest Population,66021,,5231,1070,,8017,359,,3575,1273,30,66021,8017,494,1070
+4,Arizona,5th Decile Highest Population,125447,,9005,1234,,11995,505,,3989,1412,40,125447,11995,758,1234
+4,Arizona,6th Decile Highest Population,145101,,14197,3466,,19412,734,,4397,1586,51,145101,19412,1321,3466
+4,Arizona,7th Decile Highest Population,213267,,35257,6377,,30939,1167,,4896,1768,66,213267,30939,2407,6377
+4,Arizona,8th Decile Highest Population,236209,,53658,9561,,56300,1811,,5491,1989,88,236209,56300,5184,9561
+4,Arizona,9th Decile Highest Population,1043433,,143148,14053,,101822,5184,,6313,2351,132,1043433,101822,16250,14053
+4,Arizona,10th Decile Median Population,4420568,,267918,54425.5,,242327.5,12907,,6837,2670.5,204,4420568,242327.5,49489,54425.5
+4,Arizona,10th Decile Mean Population,4420568,,451132,54426,,703986,18869,,7088,2870,283,4420568,703986,127525,54426
+4,Arizona,10th Decile Highest Population,4420568,,1608139,94511,,3331925,99894,,13220,8331,5578,4420568,3331925,1608139,94511
+5,Arkansas,Number,75,0,501,0,0,1210,125,0,823,2294,136422,75,1210,626,0
+5,Arkansas,Number with 0 Population,0,0,0,0,0,2,0,0,0,1,48301,0,2,0,0
+5,Arkansas,Median Population (Non-0),17958,0,520,0,0,549,166,0,3630,1182,16,17958,549,419,0
+5,Arkansas,Mean Population (Non-0),40154,0,3998,0,0,2493,659,0,3659,1313,34,40154,2489,3331,0
+5,Arkansas,1st Decile (>0) Lowest Population,4739,,20,,,6,13,,4,4,1,4739,6,13,
+5,Arkansas,1st Decile (>0) Median Population,6482,,68.5,,,70,28,,1419.5,550,2,6482,70,53,
+5,Arkansas,1st Decile (>0) Highest Population,7550,,96,,,124,39,,1855,644,3,7550,124,86,
+5,Arkansas,2nd Decile Highest Population,10171,,157,,,212,74,,2265,790,6,10171,212,130,
+5,Arkansas,3rd Decile Highest Population,12785,,243,,,292,110,,2785,906,9,12785,292,183,
+5,Arkansas,4th Decile Highest Population,16568,,374,,,420,134,,3242,1052,12,16568,420,288,
+5,Arkansas,5th Decile Highest Population,17958,,520,,,549,161,,3630,1181,16,17958,549,418,
+5,Arkansas,6th Decile Highest Population,21131,,794,,,785,235,,3934,1353,21,21131,785,665,
+5,Arkansas,7th Decile Highest Population,28260,,1587,,,1122,328,,4304,1542,29,28260,1122,1137,
+5,Arkansas,8th Decile Highest Population,42600,,3015,,,1817,496,,4873,1761,42,42600,1817,2361,
+5,Arkansas,9th Decile Highest Population,100180,,7045,,,4079,1325,,5573,2169,72,100180,4079,5589,
+5,Arkansas,10th Decile Median Population,127799,,17774,,,8736,3170.5,,6245.5,2479,117,127799,8736,13042,
+5,Arkansas,10th Decile Mean Population,202182,,30338,,,18042,4505,,6489,2659,167,202182,18042,25868,
+5,Arkansas,10th Decile Highest Population,399125,,202591,,,228376,15861,,12149,5315,3204,399125,228376,202591,
+6,California,Number,58,0,482,106,0,404,1129,2,9129,25607,519723,58,404,1611,108
+6,California,Number with 0 Population,0,0,0,10,0,0,4,0,32,50,142132,0,0,4,10
+6,California,Median Population (Non-0),186670,0,31193,144,0,17648,1185,1627,4202,1438,63,186670,17648,2997,123
+6,California,Mean Population (Non-0),681694,0,68467,633,0,97867,4193,1627,4346,1547,105,681694,97867,23413,593
+6,California,1st Decile (>0) Lowest Population,1204,,200,2,,193,1,,2,2,1,1204,193,1,2
+6,California,1st Decile (>0) Median Population,8700,,1732,5,,1260.5,54,,1932,720,7,8700,1260.5,74.5,5
+6,California,1st Decile (>0) Highest Population,16112,,4456,8,,2285,102,,2422,829,11,16112,2285,150,8
+6,California,2nd Decile Highest Population,28917,,8280,28,,4897,210,,2986,998,21,28917,4897,334,28
+6,California,3rd Decile Highest Population,64209,,13332,63,,7529,390,,3417,1144,34,64209,7529,803,63
+6,California,4th Decile Highest Population,102241,,21738,100,,12395,725,27,3815,1289,47,102241,12395,1565,100
+6,California,5th Decile Highest Population,182155,,31051,142,,17567,1169,,4202,1437,62,182155,17567,3002,142
+6,California,6th Decile Highest Population,281202,,44444,191,,28249,1995,,4630,1600,80,281202,28249,5331,191
+6,California,7th Decile Highest Population,473117,,62623,233,,56675,3223,3227,5081,1793,104,473117,56675,10625,237
+6,California,8th Decile Highest Population,873965,,85858,538,,115121,5164,,5642,2028,141,873965,115121,23032,567
+6,California,9th Decile Highest Population,1936259,,126090,1243,,238078,10625,,6435,2382,224,1936259,238078,59520,1250
+6,California,10th Decile Median Population,3186989,,187335,1876,,407522,19504,,7103,2707,341,3186989,407522,95195.5,1907
+6,California,10th Decile Mean Population,4219894,,355213,4773,,648975,24493,,7516,2927,440,4219894,648975,166424,4993
+6,California,10th Decile Highest Population,10014009,,3898747,27090,,2561896,118786,,37892,37892,8727,10014009,2561896,3898747,27090
+8,Colorado,Number,64,0,272,2,0,209,210,0,1447,4058,140345,64,209,482,2
+8,Colorado,Number with 0 Population,0,0,1,0,0,0,1,0,8,15,40446,0,0,2,0
+8,Colorado,Median Population (Non-0),15136,0,1264,6900,0,4514,333,0,3759,1310,33,15136,4514,824,6900
+8,Colorado,Mean Population (Non-0),90214,0,15867,6900,0,27625,3418,0,4012,1428,58,90214,27625,10403,6900
+8,Colorado,1st Decile (>0) Lowest Population,705,,16,,,136,7,,9,5,1,705,136,7,
+8,Colorado,1st Decile (>0) Median Population,1122,,81,,,333,33.5,,1531.5,646,3,1122,333,49,
+8,Colorado,1st Decile (>0) Highest Population,1748,,141,,,495,47,,1887,727,5,1748,495,75,
+8,Colorado,2nd Decile Highest Population,4817,,296,,,952,97,,2486,870,9,4817,952,157,
+8,Colorado,3rd Decile Highest Population,6368,,535,,,1456,138,,2962,1004,15,6368,1456,269,
+8,Colorado,4th Decile Highest Population,9397,,837,1478,,2767,214,,3362,1158,23,9397,2767,493,1478
+8,Colorado,5th Decile Highest Population,14555,,1264,,,4514,331,,3759,1309,33,14555,4514,837,
+8,Colorado,6th Decile Highest Population,19476,,2300,,,6753,650,,4229,1465,45,19476,6753,1453,
+8,Colorado,7th Decile Highest Population,29111,,4835,12321,,11670,1474,,4768,1643,59,29111,11670,2953,12321
+8,Colorado,8th Decile Highest Population,61685,,8766,,,22109,3934,,5434,1886,79,61685,22109,6608,
+8,Colorado,9th Decile Highest Population,357978,,29802,,,74112,9324,,6308,2273,122,357978,74112,15553,
+8,Colorado,10th Decile Median Population,618990,,76378,,,134154.5,18460.5,,7165,2651,187,618990,134154.5,36011.5,
+8,Colorado,10th Decile Mean Population,593756,,130318,,,209494,23668,,7621,2866,250,593756,209494,85118,
+8,Colorado,10th Decile Highest Population,730395,,715522,,,715522,103444,,14773,7373,3328,730395,715522,715522,
+9,Connecticut,Number,0,169,29,5,8,0,186,0,883,2716,49926,8,169,215,5
+9,Connecticut,Number with 0 Population,0,0,0,1,0,0,0,0,7,11,7918,0,0,0,1
+9,Connecticut,Median Population (Non-0),0,12613,35515,128,226871,0,2222,0,4063,1259,50,226871,12613,2586,44
+9,Connecticut,Mean Population (Non-0),0,21337,46924,179,450743,0,4759,0,4116,1333,86,450743,21337,10446,143
+9,Connecticut,1st Decile (>0) Lowest Population,,785,53,,,,20,,543,8,1,,785,20,
+9,Connecticut,1st Decile (>0) Median Population,,1662,530,,,,144.5,,1806,681.5,9,,1662,151,
+9,Connecticut,1st Decile (>0) Highest Population,,2429,720,,,,287,,2260,767,13,,2429,309,
+9,Connecticut,2nd Decile Highest Population,,4213,1486,4,116418,,631,,2840,894,21,116418,4213,665,4
+9,Connecticut,3rd Decile Highest Population,,6733,4155,,149788,,1159,,3306,1019,30,149788,6733,1186,
+9,Connecticut,4th Decile Highest Population,,9224,18918,44,164245,,1539,,3616,1138,39,164245,9224,1720,44
+9,Connecticut,5th Decile Highest Population,,12613,35515,,185186,,2220,,4060,1258,50,185186,12613,2586,
+9,Connecticut,6th Decile Highest Population,,17528,47717,212,268555,,2955,,4367,1389,64,268555,17528,3354,212
+9,Connecticut,7th Decile Highest Population,,21535,60850,,864835,,3899,,4802,1554,84,864835,21535,5202,
+9,Connecticut,8th Decile Highest Population,,28733,91184,457,899498,,6150,,5370,1724,118,899498,28733,8039,457
+9,Connecticut,9th Decile Highest Population,,52355,134023,,957419,,9114,,6044,1996,190,957419,52355,27923,
+9,Connecticut,10th Decile Median Population,,69109,142062,,,,18213.5,,6658,2245,281,,69109,60833,
+9,Connecticut,10th Decile Mean Population,,87044,142062,,,,24778,,6789,2339,350,,87044,71955,
+9,Connecticut,10th Decile Highest Population,,148654,148654,,,,64083,,9522,9522,2267,,148654,148654,
+10,Delaware,Number,3,0,57,0,0,27,22,2,262,706,20198,3,27,79,2
+10,Delaware,Number with 0 Population,0,0,0,0,0,0,0,0,4,4,4881,0,0,0,0
+10,Delaware,Median Population (Non-0),237378,0,1179,0,0,29972,3798,5319,3725,1286,36,237378,29972,2027,5319
+10,Delaware,Mean Population (Non-0),329983,0,4910,0,0,36665,6693,5319,3837,1410,65,329983,36665,5407,5319
+10,Delaware,1st Decile (>0) Lowest Population,,,73,,,7315,162,,1,1,1,,7315,73,
+10,Delaware,1st Decile (>0) Median Population,,,139,,,7467,528,,1513,580,6,,7467,151,
+10,Delaware,1st Decile (>0) Highest Population,,,178,,,7619,894,,1879,701,8,,7619,195,
+10,Delaware,2nd Decile Highest Population,,,239,,,13072,1957,,2267,859,14,,13072,343,
+10,Delaware,3rd Decile Highest Population,181851,,366,,,21633,2458,,2774,985,20,181851,21633,870,
+10,Delaware,4th Decile Highest Population,,,870,,,26748,3017,666,3096,1112,28,,26748,1225,666
+10,Delaware,5th Decile Highest Population,237378,,1179,,,29972,3492,,3722,1285,36,237378,29972,2027,
+10,Delaware,6th Decile Highest Population,,,1885,,,33697,6635,,4159,1454,46,,33697,2878,
+10,Delaware,7th Decile Highest Population,,,2878,,,38913,8162,9971,4676,1656,59,,38913,3865,9971
+10,Delaware,8th Decile Highest Population,570719,,3961,,,67705,11692,,5391,1938,81,570719,67705,7808,
+10,Delaware,9th Decile Highest Population,,,11190,,,81197,14974,,6164,2312,128,,81197,13478,
+10,Delaware,10th Decile Median Population,,,30601,,,86456,19174,,6720,2651.5,212.5,,86456,23192,
+10,Delaware,10th Decile Mean Population,,,35395,,,86456,19174,,6947,2824,293,,86456,31059,
+10,Delaware,10th Decile Highest Population,,,70898,,,90459,23060,,8360,7643,1874,,90459,70898,
+11,District of Columbia,Number,0,0,0,0,1,1,1,0,206,571,6012,1,1,1,0
+11,District of Columbia,Number with 0 Population,0,0,0,0,0,0,0,0,0,9,1512,0,0,0,0
+11,District of Columbia,Median Population (Non-0),0,0,0,0,689545,689545,689545,0,3262,1171,90,689545,689545,689545,0
+11,District of Columbia,Mean Population (Non-0),0,0,0,0,689545,689545,689545,0,3347,1227,153,689545,689545,689545,0
+11,District of Columbia,1st Decile (>0) Lowest Population,,,,,,,,,176,1,1,,,,
+11,District of Columbia,1st Decile (>0) Median Population,,,,,,,,,1821.5,635,16,,,,
+11,District of Columbia,1st Decile (>0) Highest Population,,,,,,,,,2064,727,26,,,,
+11,District of Columbia,2nd Decile Highest Population,,,,,,,,,2461,831,42,,,,
+11,District of Columbia,3rd Decile Highest Population,,,,,,,,,2755,953,56,,,,
+11,District of Columbia,4th Decile Highest Population,,,,,,,,,2993,1051,72,,,,
+11,District of Columbia,5th Decile Highest Population,,,,,689545,689545,689545,,3258,1170,89,689545,689545,689545,
+11,District of Columbia,6th Decile Highest Population,,,,,,,,,3499,1300,114,,,,
+11,District of Columbia,7th Decile Highest Population,,,,,,,,,3829,1426,146,,,,
+11,District of Columbia,8th Decile Highest Population,,,,,,,,,4160,1590,195,,,,
+11,District of Columbia,9th Decile Highest Population,,,,,,,,,4672,1848,334,,,,
+11,District of Columbia,10th Decile Median Population,,,,,,,,,5227,2040.5,520,,,,
+11,District of Columbia,10th Decile Mean Population,,,,,,,,,5377,2172,636,,,,
+11,District of Columbia,10th Decile Highest Population,,,,,,,,,6879,4108,3060,,,,
+12,Florida,Number,67,0,412,10,0,316,543,0,5160,13388,390066,67,316,955,10
+12,Florida,Number with 0 Population,0,0,0,3,0,0,0,0,67,71,100414,0,0,0,3
+12,Florida,Median Population (Non-0),129752,0,6230,239,0,23708,4467,0,3941,1446,37,129752,23708,5037,125
+12,Florida,Mean Population (Non-0),321465,0,26293,413,0,68159,10687,0,4229,1617,74,321465,68159,17420,289
+12,Florida,1st Decile (>0) Lowest Population,7974,,15,,,3,45,,1,1,1,7974,3,15,
+12,Florida,1st Decile (>0) Median Population,12288.5,,255,,,1965,233.5,,1679,663,5,12288.5,1965,240,
+12,Florida,1st Decile (>0) Highest Population,14004,,463,,,3787,433,,2083,774,8,14004,3787,461,
+12,Florida,2nd Decile Highest Population,19653,,954,6,,6794,1063,,2645,956,15,19653,6794,1055,6
+12,Florida,3rd Decile Highest Population,33976,,1987,52,,10671,2101,,3086,1116,22,33976,10671,2049,52
+12,Florida,4th Decile Highest Population,69698,,3357,197,,15661,3006,,3485,1277,29,69698,15661,3136,197
+12,Florida,5th Decile Highest Population,129752,,6215,239,,23631,4467,,3941,1446,37,129752,23631,5037,239
+12,Florida,6th Decile Highest Population,188000,,10486,,,36874,6314,,4393,1631,47,188000,36874,7420,
+12,Florida,7th Decile Highest Population,321905,,17425,438,,62161,10452,,4925,1855,60,321905,62161,12865,438
+12,Florida,8th Decile Highest Population,434006,,36068,535,,112805,15778,,5623,2158,82,434006,112805,22260,535
+12,Florida,9th Decile Highest Population,959107,,66846,1426,,194036,26324,,6735,2611,142,959107,194036,43021,1426
+12,Florida,10th Decile Median Population,1475976.5,,111640,,,261814,40062.5,,7654,3062,257,1475976.5,261814,71897,
+12,Florida,10th Decile Mean Population,1670595,,157206,,,324136,49975,,8269,3460,376,1670595,324136,102565,
+12,Florida,10th Decile Highest Population,2701767,,949611,,,981627,114626,,22780,18071,6107,2701767,981627,949611,
+13,Georgia,Number,159,0,536,1,0,586,139,1,2796,7446,232717,159,586,675,2
+13,Georgia,Number with 0 Population,0,0,1,0,0,1,0,0,12,13,67384,0,1,1,0
+13,Georgia,Median Population (Non-0),22842,0,1334,14,0,5554,866,6340,3719,1343,26,22842,5517,1230,3177
+13,Georgia,Mean Population (Non-0),67370,0,8272,14,0,18311,6235,6340,3848,1441,65,67370,18280,7840,3177
+13,Georgia,1st Decile (>0) Lowest Population,1559,,22,,,151,23,,191,26,1,1559,151,22,
+13,Georgia,1st Decile (>0) Median Population,4881,,143.5,,,942.5,67.5,,1708.5,638,3,4881,942.5,116,
+13,Georgia,1st Decile (>0) Highest Population,6749,,203,,,1313,94,,2050,749,5,6749,1313,165,
+13,Georgia,2nd Decile Highest Population,9189,,347,,,1991,137,,2551,913,9,9189,1991,303,
+13,Georgia,3rd Decile Highest Population,12518,,531,,,2924,245,,2977,1068,13,12518,2924,480,
+13,Georgia,4th Decile Highest Population,18444,,825,,,3981,434,,3373,1205,19,18444,3981,764,14
+13,Georgia,5th Decile Highest Population,22842,,1334,14,,5554,866,6340,3717,1342,26,22842,5554,1230,
+13,Georgia,6th Decile Highest Population,28347,,2513,,,7822,1561,,4120,1497,35,28347,7822,2308,
+13,Georgia,7th Decile Highest Population,43092,,3834,,,11721,2869,,4518,1682,49,43092,11721,3720,6340
+13,Georgia,8th Decile Highest Population,81099,,7495,,,19556,6983,,5036,1909,74,81099,19556,7495,
+13,Georgia,9th Decile Highest Population,156010,,18337,,,44488,13089,,5763,2230,138,156010,44488,17070,
+13,Georgia,10th Decile Median Population,251283,,34891,,,85257.5,22468,,6374,2525.5,251,251283,85257.5,34417,
+13,Georgia,10th Decile Mean Population,400807,,57200,,,110744,45714,,6667,2707,354,400807,110744,54511,
+13,Georgia,10th Decile Highest Population,1066710,,498715,,,625717,202081,,12356,6305,3029,1066710,625717,498715,
+15,Hawaii,Number,5,0,0,0,0,44,163,75,461,1083,14732,5,44,163,75
+15,Hawaii,Number with 0 Population,0,0,0,0,0,0,0,15,29,33,4563,0,0,0,15
+15,Hawaii,Median Population (Non-0),164754,0,0,0,0,9404,2699,135,3108,1262,74,164754,9404,2699,59
+15,Hawaii,Mean Population (Non-0),291054,0,0,0,0,33074,8652,573,3369,1386,143,291054,33074,8652,458
+15,Hawaii,1st Decile (>0) Lowest Population,,,,,,11,7,1,1,1,1,,11,7,1
+15,Hawaii,1st Decile (>0) Median Population,,,,,,83,274,2,1112,550,7,,83,274,2
+15,Hawaii,1st Decile (>0) Highest Population,,,,,,649,416,3,1540,688,12,,649,416,3
+15,Hawaii,2nd Decile Highest Population,82,,,,,3367,773,8,1981,860,23,82,3367,773,8
+15,Hawaii,3rd Decile Highest Population,,,,,,5433,1299,29,2364,1001,37,,5433,1299,29
+15,Hawaii,4th Decile Highest Population,73298,,,,,7413,2110,73,2704,1128,54,73298,7413,2110,73
+15,Hawaii,5th Decile Highest Population,164754,,,,,9019,2699,119,3103,1261,74,164754,9019,2699,119
+15,Hawaii,6th Decile Highest Population,,,,,,12864,4215,318,3457,1436,98,,12864,4215,318
+15,Hawaii,7th Decile Highest Population,200629,,,,,20917,5963,670,3941,1635,131,200629,20917,5963,670
+15,Hawaii,8th Decile Highest Population,,,,,,28152,9916,1054,4647,1888,186,,28152,9916,1054
+15,Hawaii,9th Decile Highest Population,1016508,,,,,46118,17697,1441,5944,2246,336,1016508,46118,17697,1441
+15,Hawaii,10th Decile Median Population,,,,,,241058,28170,1886.5,6544,2516,537,,241058,28170,1886.5
+15,Hawaii,10th Decile Mean Population,,,,,,234844,51063,2622,6912,2731,663,,234844,51063,2622
+15,Hawaii,10th Decile Highest Population,,,,,,405295,350964,5135,11046,6147,3472,,405295,350964,5135
+16,Idaho,Number,44,0,200,5,0,170,37,0,456,1284,81879,44,170,237,5
+16,Idaho,Number with 0 Population,0,0,0,0,0,2,0,0,0,2,35745,0,2,0,0
+16,Idaho,Median Population (Non-0),13791,0,775,5977,0,2752,291,0,3835,1327,21,13791,2705,667,5977
+16,Idaho,Mean Population (Non-0),41798,0,6501,6470,0,10947,718,0,4033,1435,40,41798,10818,5598,6470
+16,Idaho,1st Decile (>0) Lowest Population,790,,4,,,42,22,,42,1,1,790,42,4,
+16,Idaho,1st Decile (>0) Median Population,1825.5,,80.5,,,296,32,,1679,647.5,2,1825.5,296,47,
+16,Idaho,1st Decile (>0) Highest Population,3533,,131,,,385,42,,2141,764,3,3533,385,98,
+16,Idaho,2nd Decile Highest Population,6372,,233,92,,802,73,,2726,904,7,6372,802,192,92
+16,Idaho,3rd Decile Highest Population,7974,,358,,,1490,138,,3114,1048,10,7974,1490,308,
+16,Idaho,4th Decile Highest Population,11746,,511,311,,2126,170,,3478,1187,14,11746,2126,441,311
+16,Idaho,5th Decile Highest Population,13388,,763,5977,,2709,291,,3828,1325,20,13388,2709,667,5977
+16,Idaho,6th Decile Highest Population,21613,,1025,,,3945,337,,4275,1477,28,21613,3945,930,
+16,Idaho,7th Decile Highest Population,25386,,2096,7567,,5778,594,,4774,1676,38,25386,5778,1653,7567
+16,Idaho,8th Decile Highest Population,47110,,3686,,,9414,1130,,5239,1896,53,47110,9414,3133,
+16,Idaho,9th Decile Highest Population,90046,,12316,18403,,20710,3076,,6214,2232,86,90046,20710,9425,18403
+16,Idaho,10th Decile Median Population,201233.5,,36344,,,47734,3195,,6766,2574.5,133,201233.5,47734,30346,
+16,Idaho,10th Decile Mean Population,255350,,51124,,,76897,3647,,7137,2767,182,255350,76897,45984,
+16,Idaho,10th Decile Highest Population,494967,,235684,,,386541,4556,,12294,7796,2255,494967,386541,235684,
+17,Illinois,Number,102,1427,1298,0,0,279,168,0,3265,9898,369978,102,1706,1466,0
+17,Illinois,Number with 0 Population,0,0,0,0,0,1,0,0,4,6,91812,0,1,0,0
+17,Illinois,Median Population (Non-0),25423,988,1038,0,0,720,172,0,3753,1174,25,25423,894,871,0
+17,Illinois,Mean Population (Non-0),125613,6755,8606,0,0,11413,811,0,3929,1295,46,125613,7510,7713,0
+17,Illinois,1st Decile (>0) Lowest Population,3649,34,14,,,31,10,,2,2,1,3649,31,10,
+17,Illinois,1st Decile (>0) Median Population,5071,193.5,100.5,,,219,23.5,,1575,606,3,5071,196.5,79,
+17,Illinois,1st Decile (>0) Highest Population,6244,248,157,,,298,38,,1961,683,4,6244,253,119,
+17,Illinois,2nd Decile Highest Population,12297,375,274,,,454,75,,2481,811,8,12297,388,212,
+17,Illinois,3rd Decile Highest Population,14739,509,446,,,544,109,,2955,921,12,14739,516,354,
+17,Illinois,4th Decile Highest Population,16866,704,656,,,643,140,,3366,1048,17,16866,668,550,
+17,Illinois,5th Decile Highest Population,23768,988,1034,,,717,162,,3753,1173,25,23768,895,869,
+17,Illinois,6th Decile Highest Population,34145,1422,1636,,,822,254,,4181,1318,35,34145,1191,1433,
+17,Illinois,7th Decile Highest Population,46863,2231,3681,,,917,502,,4677,1490,47,46863,1785,2783,
+17,Illinois,8th Decile Highest Population,74188,4233,8051,,,1103,1217,,5289,1710,66,74188,3404,6605,
+17,Illinois,9th Decile Highest Population,196343,12576,19073,,,1699,2403,,6116,2065,101,196343,9995,17395,
+17,Illinois,10th Decile Median Population,413375.5,37149,30176,,,4135,3675.5,,6824,2391,146,413375.5,29689.5,27955,
+17,Illinois,10th Decile Mean Population,946034,52175,62350,,,110994,4766,,7074,2557,197,946034,62170,57233,
+17,Illinois,10th Decile Highest Population,5275541,170478,2746388,,,2746388,10637,,11373,7015,4689,5275541,2746388,2746388,
+18,Indiana,Number,92,1005,566,1,0,5,130,0,1696,5290,204568,92,1010,696,1
+18,Indiana,Number with 0 Population,0,0,0,0,0,1,0,0,7,9,41829,0,1,0,0
+18,Indiana,Median Population (Non-0),34313,1795,1127,19,0,8463,432,0,3811,1139,22,34313,1799,921,19
+18,Indiana,Mean Population (Non-0),73756,6702,6485,19,0,12513,8048,0,4017,1285,42,73756,6718,6777,19
+18,Indiana,1st Decile (>0) Lowest Population,5940,52,12,,,,28,,1,1,1,5940,52,12,
+18,Indiana,1st Decile (>0) Median Population,9737,407.5,119,,,,53,,1711,605.5,3,9737,408,92.5,
+18,Indiana,1st Decile (>0) Highest Population,12250,585,194,,,,79,,2159,673,5,12250,587,143,
+18,Indiana,2nd Decile Highest Population,19170,862,331,,,2524,115,,2639,776,8,19170,870,263,
+18,Indiana,3rd Decile Highest Population,23371,1130,553,,,,181,,3046,889,12,23371,1133,441,
+18,Indiana,4th Decile Highest Population,28182,1448,796,,,5378,300,,3401,1006,16,28182,1455,644,
+18,Indiana,5th Decile Highest Population,34191,1795,1125,19,,,431,,3811,1138,21,34191,1801,921,19
+18,Indiana,6th Decile Highest Population,39654,2493,1722,,,11548,595,,4231,1278,28,39654,2524,1384,
+18,Indiana,7th Decile Highest Population,50679,3762,2511,,,,767,,4774,1470,38,50679,3770,2140,
+18,Indiana,8th Decile Highest Population,82208,5728,5508,,,30603,1332,,5338,1704,54,82208,5792,4568,
+18,Indiana,9th Decile Highest Population,173215,12927,16306,,,,3558,,6131,2094,88,173215,13151,12357,
+18,Indiana,10th Decile Median Population,272912,34479,34334,,,,5529,,6774,2479,138,272912,34479,29752,
+18,Indiana,10th Decile Mean Population,358879,43864,45811,,,,75105,,7209,2657,189,358879,44039,52780,
+18,Indiana,10th Decile Highest Population,977203,156686,263886,,,,887642,,13901,7281,5190,977203,156686,887642,
+19,Iowa,Number,99,1597,942,4,0,65,86,0,896,2703,175199,99,1662,1028,4
+19,Iowa,Number with 0 Population,0,0,0,3,0,1,0,0,2,2,51024,0,1,0,3
+19,Iowa,Median Population (Non-0),15211,441,433,1142,0,4843,92,0,3337,1013,12,15211,458,384,0
+19,Iowa,Mean Population (Non-0),32226,1401,2722,1142,0,14879,248,0,3569,1181,26,32226,1920,2515,286
+19,Iowa,1st Decile (>0) Lowest Population,3704,57,4,,,6,5,,273,76,1,3704,6,4,
+19,Iowa,1st Decile (>0) Median Population,6344.5,132,50,,,265.5,20.5,,1770,582,2,6344.5,133,39,
+19,Iowa,1st Decile (>0) Highest Population,7203,162,78,,,748,28,,2033,641,2,7203,163,67,
+19,Iowa,2nd Decile Highest Population,9388,215,141,,,1130,36,,2397,731,4,9388,218,118,
+19,Iowa,3rd Decile Highest Population,10623,271,203,,,1822,50,,2703,819,6,10623,276,176,
+19,Iowa,4th Decile Highest Population,12329,340,296,,,2906,64,,3051,906,8,12329,349,262,
+19,Iowa,5th Decile Highest Population,15211,441,432,1142,,4792,91,,3337,1013,11,15211,458,383,1142
+19,Iowa,6th Decile Highest Population,17488,580,701,,,7396,113,,3669,1132,15,17488,614,615,
+19,Iowa,7th Decile Highest Population,20760,762,966,,,9564,154,,3989,1302,21,20760,843,906,
+19,Iowa,8th Decile Highest Population,35437,1164,1676,,,15833,204,,4606,1556,32,35437,1297,1543,
+19,Iowa,9th Decile Highest Population,93667,2180,4477,,,52682,473,,5374,1944,55,93667,2663,4040,
+19,Iowa,10th Decile Median Population,131144,4270,8301,,,80309.5,1073,,6263,2315.5,87,131144,6139,7641,
+19,Iowa,10th Decile Mean Population,176088,9140,21013,,,87839,1572,,6579,2528,127,176088,13841,19698,
+19,Iowa,10th Decile Highest Population,492401,102689,214133,,,137710,3584,,16172,7674,2249,492401,137710,214133,
+20,Kansas,Number,105,1273,624,5,0,258,116,0,829,2461,172529,105,1531,740,5
+20,Kansas,Number with 0 Population,0,0,0,1,0,5,0,0,4,14,63380,0,5,0,1
+20,Kansas,Median Population (Non-0),6877,221,395,849,0,961,80,0,3408,1079,11,6877,242,263,168
+20,Kansas,Mean Population (Non-0),27980,617,3915,1404,0,8508,236,0,3561,1201,27,27980,1919,3339,1123
+20,Kansas,1st Decile (>0) Lowest Population,1284,5,8,,,6,13,,1,1,1,1284,5,8,
+20,Kansas,1st Decile (>0) Median Population,1857,27,38.5,,,36,17,,1533,608,2,1857,27,30,
+20,Kansas,1st Decile (>0) Highest Population,2447,41,58,,,53,25,,1805,681,2,2447,42,46,
+20,Kansas,2nd Decile Highest Population,2764,68,98,68,,91,39,,2229,775,4,2764,71,79,68
+20,Kansas,3rd Decile Highest Population,3780,105,155,,,186,52,,2638,876,6,3780,109,111,
+20,Kansas,4th Decile Highest Population,5459,148,234,168,,366,62,,2953,975,8,5459,161,166,168
+20,Kansas,5th Decile Highest Population,6877,221,394,,,961,78,,3408,1079,11,6877,244,260,
+20,Kansas,6th Decile Highest Population,9157,312,653,1529,,1978,96,,3786,1196,15,9157,366,444,1529
+20,Kansas,7th Decile Highest Population,15904,469,1037,,,2861,110,,4242,1367,22,15904,556,834,
+20,Kansas,8th Decile Highest Population,25996,733,1922,3849,,5111,155,,4788,1574,35,25996,1005,1475,3849
+20,Kansas,9th Decile Highest Population,38972,1365,5084,,,12870,247,,5506,1912,60,38972,2167,4113,
+20,Kansas,10th Decile Median Population,100333,2159,11519.5,,,33902,696,,6260,2212.5,93,100333,4838.5,9428,
+20,Kansas,10th Decile Mean Population,193805,3496,32874,,,68378,1683,,6565,2364,135,193805,15743,28345,
+20,Kansas,10th Decile Highest Population,609863,23462,397532,,,397532,9230,,10171,4920,1932,609863,397532,397532,
+21,Kentucky,Number,120,0,418,0,0,493,137,0,1306,3581,132662,120,493,555,0
+21,Kentucky,Number with 0 Population,0,0,1,0,0,1,0,0,2,29,41090,0,1,1,0
+21,Kentucky,Median Population (Non-0),19523,0,952,0,0,3706,345,0,3279,1157,23,19523,3703,776,0
+21,Kentucky,Mean Population (Non-0),37549,0,4517,0,0,9158,5794,0,3455,1269,49,37549,9140,4824,0
+21,Kentucky,1st Decile (>0) Lowest Population,2193,,19,,,1,40,,1,1,1,2193,1,19,
+21,Kentucky,1st Decile (>0) Median Population,6314,,137.5,,,1176,110,,1464,620,3,6314,1176,119,
+21,Kentucky,1st Decile (>0) Highest Population,7728,,185,,,1418,144,,1764,699,4,7728,1418,173,
+21,Kentucky,2nd Decile Highest Population,10810,,326,,,1955,201,,2201,824,8,10810,1955,263,
+21,Kentucky,3rd Decile Highest Population,12955,,513,,,2663,246,,2614,932,12,12955,2663,376,
+21,Kentucky,4th Decile Highest Population,15082,,723,,,3096,282,,2925,1041,16,15082,3096,571,
+21,Kentucky,5th Decile Highest Population,19490,,952,,,3703,345,,3278,1157,23,19490,3703,776,
+21,Kentucky,6th Decile Highest Population,23852,,1588,,,4670,475,,3648,1295,32,23852,4670,1117,
+21,Kentucky,7th Decile Highest Population,28473,,2452,,,6407,741,,4091,1452,44,28473,6407,1972,
+21,Kentucky,8th Decile Highest Population,44485,,4492,,,9454,1282,,4595,1681,65,44485,9454,3640,
+21,Kentucky,9th Decile Highest Population,67607,,10017,,,20817,4374,,5380,1969,110,67607,20817,8435,
+21,Kentucky,10th Decile Median Population,107007,,18090,,,41010,7742,,6186,2283,174,107007,41010,17282,
+21,Kentucky,10th Decile Mean Population,180646,,29934,,,49265,55419,,6326,2390,234,180646,49265,36059,
+21,Kentucky,10th Decile Highest Population,782969,,322570,,,122639,386884,,10232,4409,2400,782969,122639,386884,
+22,Louisiana,Number,64,0,303,4,0,576,185,10,1388,4294,142874,64,576,488,14
+22,Louisiana,Number with 0 Population,0,0,0,0,0,0,0,0,18,21,50694,0,0,0,0
+22,Louisiana,Median Population (Non-0),32300,0,1052,100,0,3522,1677,6969,3216,938,27,32300,3522,1213,3303
+22,Louisiana,Mean Population (Non-0),72777,0,7023,218,0,8086,4815,27719,3400,1090,51,72777,8086,6186,19862
+22,Louisiana,1st Decile (>0) Lowest Population,4147,,12,,,309,32,349,1,1,1,4147,309,12,26
+22,Louisiana,1st Decile (>0) Median Population,7539.5,,130,,,993,132,349,1323,375,3,7539.5,993,132,26
+22,Louisiana,1st Decile (>0) Highest Population,9645,,201,,,1254,200,349,1552,465,5,9645,1254,204,26
+22,Louisiana,2nd Decile Highest Population,14791,,294,26,,1825,455,737,2042,591,10,14791,1825,351,106
+22,Louisiana,3rd Decile Highest Population,20043,,516,,,2277,676,2026,2460,703,14,20043,2277,553,349
+22,Louisiana,4th Decile Highest Population,22750,,748,94,,2705,926,4579,2856,812,20,22750,2705,818,737
+22,Louisiana,5th Decile Highest Population,32250,,1052,,,3519,1677,5054,3215,937,27,32250,3519,1212,2026
+22,Louisiana,6th Decile Highest Population,43764,,1751,106,,4783,2161,8884,3640,1102,35,43764,4783,1980,5054
+22,Louisiana,7th Decile Highest Population,52549,,3073,,,6553,3472,14195,4059,1290,47,52549,6553,3144,8884
+22,Louisiana,8th Decile Highest Population,126500,,4862,644,,11248,6804,26528,4653,1549,64,126500,11248,5649,26528
+22,Louisiana,9th Decile Highest Population,216785,,11472,,,16484,11238,28785,5442,1922,103,216785,16484,11340,28785
+22,Louisiana,10th Decile Median Population,324283.5,,19450,,,24530,19531,186056,6166,2235,163,324283.5,24530,19450,186056
+22,Louisiana,10th Decile Mean Population,337622,,53157,,,39066,27099,186056,6451,2393,233,337622,39066,43388,186056
+22,Louisiana,10th Decile Highest Population,456781,,383997,,,383997,143507,186056,13008,6719,4571,456781,383997,383997,186056
+23,Maine,Number,16,462,23,6,0,68,132,0,407,1184,47138,16,530,155,6
+23,Maine,Number with 0 Population,0,0,0,0,0,4,0,0,7,8,16590,0,4,0,0
+23,Maine,Median Population (Non-0),52978,1187,9672,303,0,453,1353,0,3253,1063,23,52978,1126,1721,303
+23,Maine,Mean Population (Non-0),85147,2093,16744,377,0,6175,2080,0,3406,1158,45,85147,2570,4256,377
+23,Maine,1st Decile (>0) Lowest Population,16800,5,1288,,,1,94,,370,1,1,16800,1,94,
+23,Maine,1st Decile (>0) Median Population,16800,67,1929,,,2.5,334,,1482.5,501,2,16800,53,370,
+23,Maine,1st Decile (>0) Highest Population,16800,129,2570,,,6,435,,1800,613,4,16800,91,459,
+23,Maine,2nd Decile Highest Population,31095,310,5961,4,,41,639,,2221,725,7,31095,251,716,4
+23,Maine,3rd Decile Highest Population,36699,549,7396,202,,132,764,,2573,842,12,36699,482,874,202
+23,Maine,4th Decile Highest Population,39607,829,8399,,,304,1009,,2909,957,17,39607,760,1288,
+23,Maine,5th Decile Highest Population,50477,1186,9672,226,,418,1351,,3250,1062,23,50477,1129,1721,226
+23,Maine,6th Decile Highest Population,57777,1527,18899,379,,724,1751,,3608,1207,31,57777,1511,2234,379
+23,Maine,7th Decile Highest Population,67105,2129,20400,,,5961,2257,,4044,1350,42,67105,2155,2832,
+23,Maine,8th Decile Highest Population,123642,3107,24061,692,,8797,2822,,4486,1568,62,123642,3322,4973,692
+23,Maine,9th Decile Highest Population,211972,4978,31753,760,,21982,4516,,5192,1853,102,211972,6055,8797,760
+23,Maine,10th Decile Median Population,303069,7942,52764.5,,,29125.5,6125,,6113.5,2141,154,303069,9262.5,20400,
+23,Maine,10th Decile Mean Population,303069,8827,52765,,,35066,7287,,6111,2215,198,303069,13610,23582,
+23,Maine,10th Decile Highest Population,303069,22135,68408,,,68408,17033,,8171,3287,1326,303069,68408,68408,
+24,Maryland,Number,23,0,157,0,1,290,379,0,1475,4079,83827,24,290,536,0
+24,Maryland,Number with 0 Population,0,0,0,0,0,0,0,0,15,22,18553,0,0,0,0
+24,Maryland,Median Population (Non-0),103725,0,1748,0,585708,5471,2702,0,4039,1387,49,108751,5471,2227,0
+24,Maryland,Mean Population (Non-0),243109,0,9905,0,585708,21301,9627,0,4231,1523,95,257384,21301,9708,0
+24,Maryland,1st Decile (>0) Lowest Population,19198,,18,,,55,12,,6,1,1,19198,55,12,
+24,Maryland,1st Decile (>0) Median Population,21909,,113,,,487,74.5,,1722,613,6,21909,487,85,
+24,Maryland,1st Decile (>0) Highest Population,24620,,176,,,954,112,,2122,732,10,24620,954,126,
+24,Maryland,2nd Decile Highest Population,32531,,472,,,1846,210,,2732,901,18,33293,1846,255,
+24,Maryland,3rd Decile Highest Population,49874,,682,,,2502,451,,3247,1060,27,49874,2502,520,
+24,Maryland,4th Decile Highest Population,68106,,1113,,,3729,984,,3689,1222,37,92783,3729,1018,
+24,Maryland,5th Decile Highest Population,103725,,1748,,585708,5460,2702,,4036,1386,49,103725,5460,2191,
+24,Maryland,6th Decile Highest Population,154705,,2740,,,7870,5774,,4483,1583,62,166617,7870,4428,
+24,Maryland,7th Decile Highest Population,172891,,4522,,,12902,9997,,5034,1816,81,260924,12902,7762,
+24,Maryland,8th Decile Highest Population,332317,,6402,,,27260,15288,,5700,2094,111,585708,27260,13181,
+24,Maryland,9th Decile Highest Population,854535,,17101,,,71831,29051,,6504,2489,195,854535,71831,25511,
+24,Maryland,10th Decile Median Population,1014631,,34740,,,88558,39986,,7161.5,2836,344,1014631,88558,39933,
+24,Maryland,10th Decile Mean Population,1014631,,76274,,,117675,48266,,7456,3028,460,1014631,117675,56363,
+24,Maryland,10th Decile Highest Population,1062061,,585708,,,585708,104681,,15052,15052,3731,1062061,585708,585708,
+25,Massachusetts,Number,5,293,58,3,9,58,190,0,1620,5116,107278,14,351,248,3
+25,Massachusetts,Number with 0 Population,0,0,0,0,0,0,0,0,14,27,19071,0,0,0,0
+25,Massachusetts,Median Population (Non-0),530819,8149,43855,5,465825,43855,3078,0,4294,1263,47,498322,10639,4584,5
+25,Massachusetts,Mean Population (Non-0),417119,10978,65749,31,549369,65749,6436,0,4377,1381,80,502137,20028,20307,31
+25,Massachusetts,1st Decile (>0) Lowest Population,,70,12448,,14255,12448,45,,2,2,1,14255,70,45,
+25,Massachusetts,1st Decile (>0) Median Population,,694,16211,,14255,16211,466,,1894.5,674,7,14255,757,525,
+25,Massachusetts,1st Decile (>0) Highest Population,,1095,17740,,14255,17740,852,,2282,765,11,14255,1215,1076,
+25,Massachusetts,2nd Decile Highest Population,20600,1851,28692,,71029,28692,1517,,2989,890,19,71029,2667,1767,
+25,Massachusetts,3rd Decile Highest Population,,3675,33261,3,129026,33261,1952,,3439,1009,27,129026,5237,2390,3
+25,Massachusetts,4th Decile Highest Population,228996,6017,40787,,162308,40787,2432,,3854,1130,36,228996,7569,3290,
+25,Massachusetts,5th Decile Highest Population,530819,8149,43782,5,465825,43782,3065,,4293,1263,47,465825,10639,4515,5
+25,Massachusetts,6th Decile Highest Population,,10639,53059,,797936,53059,4116,,4722,1404,60,579200,14674,6474,
+25,Massachusetts,7th Decile Highest Population,579200,14255,62186,,809829,62186,5414,,5180,1593,79,725981,18618,17366,
+25,Massachusetts,8th Decile Highest Population,,18303,88923,86,862111,88923,6939,,5791,1841,110,809829,28087,29729,86
+25,Massachusetts,9th Decile Highest Population,725981,25058,105643,,1632002,105643,18303,,6591,2202,177,862111,41946,53059,
+25,Massachusetts,10th Decile Median Population,,31342,155929,,,155929,27295,,7121.5,2527.5,261,1632002,63191,84984,
+25,Massachusetts,10th Decile Mean Population,,33754,254410,,,254410,30061,,7356,2609,322,1632002,92581,113264,
+25,Massachusetts,10th Decile Highest Population,,63191,675647,,,675647,63191,,13131,13131,3258,1632002,675647,675647,
+26,Michigan,Number,83,1240,533,13,0,299,212,0,3017,8386,254730,83,1539,745,13
+26,Michigan,Number with 0 Population,0,0,0,1,0,4,0,0,84,170,56486,0,4,0,1
+26,Michigan,Median Population (Non-0),37361,1899,1834,411,0,5003,510,0,3311,1140,30,37361,2150,1357,226
+26,Michigan,Mean Population (Non-0),121414,4228,9579,2820,0,16389,2317,0,3436,1227,51,121414,6548,7513,2603
+26,Michigan,1st Decile (>0) Lowest Population,2046,15,104,18,,3,44,,2,1,1,2046,3,44,18
+26,Michigan,1st Decile (>0) Median Population,8102.5,328.5,246,18,,437,99,,1379,571,3,8102.5,337,167,18
+26,Michigan,1st Decile (>0) Highest Population,9153,491,322,18,,952,144,,1734,665,5,9153,536,229,18
+26,Michigan,2nd Decile Highest Population,15002,822,518,62,,1743,203,,2208,796,10,15002,924,366,62
+26,Michigan,3rd Decile Highest Population,23502,1150,875,92,,2471,271,,2609,910,15,23502,1279,552,92
+26,Michigan,4th Decile Highest Population,26659,1508,1274,221,,3703,356,,2957,1024,22,26659,1688,916,221
+26,Michigan,5th Decile Highest Population,37361,1897,1834,226,,5003,509,,3311,1140,29,37361,2159,1357,226
+26,Michigan,6th Decile Highest Population,53323,2422,2709,595,,7629,857,,3687,1267,39,53323,2827,2021,595
+26,Michigan,7th Decile Highest Population,75587,3167,4516,1032,,10197,1408,,4088,1419,52,75587,3881,3362,1032
+26,Michigan,8th Decile Highest Population,134310,4368,8411,1757,,16487,2735,,4618,1608,70,134310,6069,6366,1757
+26,Michigan,9th Decile Highest Population,261670,8781,20629,3396,,40245,6366,,5338,1904,105,261670,13337,14983,3396
+26,Michigan,10th Decile Median Population,532092.5,15597.5,47710,25534,,76300,10433,,5997,2209.5,156,532092.5,26088,29637.5,25534
+26,Michigan,10th Decile Mean Population,745840,22717,67595,25534,,99891,14208,,6189,2351,214,745840,40750,53927,25534
+26,Michigan,10th Decile Highest Population,1793561,100513,639111,25534,,639111,28573,,9542,6133,4966,1793561,639111,639111,25534
+27,Minnesota,Number,87,1781,853,13,0,977,60,0,1505,4706,198705,87,2758,913,13
+27,Minnesota,Number with 0 Population,0,0,0,1,0,14,0,0,4,38,61016,0,14,0,1
+27,Minnesota,Median Population (Non-0),22290,283,678,882,0,568,225,0,3591,1134,19,22290,336,610,779
+27,Minnesota,Mean Population (Non-0),65592,518,5567,3243,0,4968,352,0,3802,1222,41,65592,2069,5224,2994
+27,Minnesota,1st Decile (>0) Lowest Population,3360,6,10,8,,1,14,,8,5,1,3360,1,10,8
+27,Minnesota,1st Decile (>0) Median Population,4686.5,57,61,8,,42.5,30.5,,1724.5,620.5,2,4686.5,49,57.5,8
+27,Minnesota,1st Decile (>0) Highest Population,5640,85,89,8,,67,45,,2065,691,3,5640,79,84,8
+27,Minnesota,2nd Decile Highest Population,9528,134,166,120,,136,56,,2527,812,6,9528,135,155,120
+27,Minnesota,3rd Decile Highest Population,12062,179,280,310,,224,118,,2948,908,9,12062,186,252,310
+27,Minnesota,4th Decile Highest Population,15697,219,458,618,,376,189,,3256,1019,13,15697,245,397,618
+27,Minnesota,5th Decile Highest Population,22290,282,678,779,,568,220,,3591,1133,18,22290,338,607,779
+27,Minnesota,6th Decile Highest Population,30066,381,1111,984,,909,271,,4016,1251,27,30066,478,961,984
+27,Minnesota,7th Decile Highest Population,39006,507,2021,4767,,1740,332,,4468,1400,39,39006,676,1802,4767
+27,Minnesota,8th Decile Highest Population,56621,723,4159,5506,,3645,464,,5030,1591,57,56621,1102,3775,5506
+27,Minnesota,9th Decile Highest Population,150928,1153,13033,9726,,10787,869,,5710,1895,91,150928,2517,11744,9726
+27,Minnesota,10th Decile Median Population,315727.5,1774,25650,11388,,23392,1443.5,,6371,2154,142,315727.5,6250.5,23919,11388
+27,Minnesota,10th Decile Mean Population,428328,2164,41760,11388,,38163,1447,,6643,2288,198,428328,16536,39828,11388
+27,Minnesota,10th Decile Highest Population,1281565,11049,429954,11388,,429954,2082,,13470,4464,3228,1281565,429954,429954,11388
+28,Mississippi,Number,82,0,298,1,0,410,130,0,878,2445,112241,82,410,428,1
+28,Mississippi,Number with 0 Population,0,0,0,0,0,0,0,0,4,5,34815,0,0,0,0
+28,Mississippi,Median Population (Non-0),21722,0,970,8007,0,4479,400,0,3289,1120,19,21722,4479,824,8007
+28,Mississippi,Mean Population (Non-0),36113,0,5027,8007,0,7223,1088,0,3388,1214,38,36113,7223,3830,8007
+28,Mississippi,1st Decile (>0) Lowest Population,1338,,41,,,113,8,,6,6,1,1338,113,8,
+28,Mississippi,1st Decile (>0) Median Population,7453,,133,,,1307,51,,1473,546,3,7453,1307,90,
+28,Mississippi,1st Decile (>0) Highest Population,8246,,198,,,1634,72,,1789,625,4,8246,1634,133,
+28,Mississippi,2nd Decile Highest Population,10285,,311,,,2216,123,,2249,777,7,10285,2216,250,
+28,Mississippi,3rd Decile Highest Population,13530,,441,,,2778,197,,2634,896,10,13530,2778,368,
+28,Mississippi,4th Decile Highest Population,18333,,639,,,3633,293,,2945,1000,14,18333,3633,496,
+28,Mississippi,5th Decile Highest Population,21629,,964,8007,,4464,395,,3288,1119,19,21629,4464,816,8007
+28,Mississippi,6th Decile Highest Population,26743,,1602,,,5263,618,,3629,1248,25,26743,5263,1269,
+28,Mississippi,7th Decile Highest Population,31184,,2342,,,6361,1066,,3953,1397,34,31184,6361,1863,
+28,Mississippi,8th Decile Highest Population,44922,,5462,,,9300,1604,,4444,1585,49,44922,9300,3619,
+28,Mississippi,9th Decile Highest Population,72984,,12721,,,14505,2833,,5100,1901,80,72984,14505,9646,
+28,Mississippi,10th Decile Median Population,150141.5,,25138,,,28022,4968,,5704.5,2203,127,150141.5,28022,18726.5,
+28,Mississippi,10th Decile Mean Population,149076,,32603,,,29758,5170,,5974,2353,180,149076,29758,26083,
+28,Mississippi,10th Decile Highest Population,227742,,153701,,,63058,8526,,10178,5617,3907,227742,63058,153701,
+29,Missouri,Number,114,283,939,0,1,1111,143,0,1654,5031,253632,115,1394,1082,0
+29,Missouri,Number with 0 Population,0,0,1,0,0,0,3,0,0,6,84628,0,0,4,0
+29,Missouri,Median Population (Non-0),18334,398,504,0,301578,1120,148,0,3554,1094,17,18479,893,414,0
+29,Missouri,Mean Population (Non-0),51345,972,4367,0,301578,5292,1819,0,3721,1225,36,53521,4415,4022,0
+29,Missouri,1st Decile (>0) Lowest Population,1973,19,3,,,16,3,,1,1,1,1973,16,3,
+29,Missouri,1st Decile (>0) Median Population,4681,112,42,,,144,23.5,,1611,570,2,4681,135,40,
+29,Missouri,1st Decile (>0) Highest Population,6096,143,69,,,220,37,,1909,650,3,6096,188,60,
+29,Missouri,2nd Decile Highest Population,8553,196,131,,,390,60,,2467,757,5,8553,310,107,
+29,Missouri,3rd Decile Highest Population,10679,260,203,,,582,82,,2849,864,8,10679,443,176,
+29,Missouri,4th Decile Highest Population,14557,313,309,,,814,107,,3189,975,12,14557,625,263,
+29,Missouri,5th Decile Highest Population,18188,398,502,,301578,1120,147,,3553,1094,16,18479,892,416,
+29,Missouri,6th Decile Highest Population,23333,492,784,,,1614,206,,3954,1234,23,23333,1262,676,
+29,Missouri,7th Decile Highest Population,31519,645,1492,,,2563,363,,4389,1415,32,32984,2043,1257,
+29,Missouri,8th Decile Highest Population,44283,1017,2915,,,4396,726,,5025,1652,48,44283,3586,2743,
+29,Missouri,9th Decile Highest Population,88842,2142,8269,,,10148,3055,,5764,1993,79,104682,8187,8143,
+29,Missouri,10th Decile Median Population,226739,4318.5,16225,,,27092,16538,,6413,2312,125,253335,21079,16225,
+29,Missouri,10th Decile Mean Population,321016,5391,34176,,,36982,15008,,6547,2414,177,338916,31535,31799,
+29,Missouri,10th Decile Highest Population,1004125,14988,508090,,,301578,36301,,9026,6982,2614,1004125,301578,508090,
+30,Montana,Number,56,0,127,8,0,194,370,0,319,900,88417,56,194,497,8
+30,Montana,Number with 0 Population,0,0,0,0,0,0,11,0,0,0,44700,0,0,11,0
+30,Montana,Median Population (Non-0),7311,0,783,5715,0,1679,122,0,3155,1092,12,7311,1679,192,5715
+30,Montana,Mean Population (Non-0),19361,0,4354,8758,0,5589,584,0,3399,1205,25,19361,5589,1534,8758
+30,Montana,1st Decile (>0) Lowest Population,496,,17,,,13,2,,13,13,1,496,13,2,
+30,Montana,1st Decile (>0) Median Population,823,,87.5,,,137,13,,1325,609,1,823,137,15,
+30,Montana,1st Decile (>0) Highest Population,1088,,131,,,269,22,,1656,666,2,1088,269,25,
+30,Montana,2nd Decile Highest Population,1927,,205,14,,476,39,,1959,761,4,1927,476,53,14
+30,Montana,3rd Decile Highest Population,3539,,332,3382,,687,67,,2288,869,6,3539,687,91,3382
+30,Montana,4th Decile Highest Population,4971,,562,3639,,1110,95,,2787,986,9,4971,1110,127,3639
+30,Montana,5th Decile Highest Population,7044,,783,4456,,1678,122,,3155,1091,12,7044,1678,194,4456
+30,Montana,6th Decile Highest Population,9371,,1018,6974,,2425,192,,3642,1217,16,9371,2425,304,6974
+30,Montana,7th Decile Highest Population,11491,,1787,9988,,3434,293,,4198,1340,23,11491,3434,532,9988
+30,Montana,8th Decile Highest Population,16309,,2775,10764,,5598,499,,4736,1543,33,16309,5598,955,10764
+30,Montana,9th Decile Highest Population,70973,,7222,30849,,9929,1042,,5541,1857,54,70973,9929,2086,30849
+30,Montana,10th Decile Median Population,117922,,17509,,,21829,2138,,6349,2220,84,117922,21829,5133,
+30,Montana,10th Decile Mean Population,118077,,34531,,,36235,4113,,6520,2412,114,118077,36235,12573,
+30,Montana,10th Decile Highest Population,164731,,117116,,,114532,34494,,8681,5898,2041,164731,114532,117116,
+31,Nebraska,Number,93,352,529,7,0,841,61,0,553,1648,119103,93,1193,590,7
+31,Nebraska,Number with 0 Population,0,0,0,0,0,2,0,0,0,0,39324,0,2,0,0
+31,Nebraska,Median Population (Non-0),6104,202,291,100,0,357,60,0,3412,1106,11,6104,278,263,100
+31,Nebraska,Mean Population (Non-0),21091,380,2899,1194,0,2178,404,0,3547,1190,25,21091,1644,2641,1194
+31,Nebraska,1st Decile (>0) Lowest Population,399,10,2,,,1,8,,8,8,1,399,1,2,
+31,Nebraska,1st Decile (>0) Median Population,611,41,33,,,28,13,,1387,645,2,611,32,28,
+31,Nebraska,1st Decile (>0) Highest Population,716,58,52,,,47,18,,1798,706,2,716,51,43,
+31,Nebraska,2nd Decile Highest Population,1838,88,92,3,,101,31,,2368,818,4,1838,93,74,3
+31,Nebraska,3rd Decile Highest Population,2959,112,145,8,,154,43,,2684,907,5,2959,139,114,8
+31,Nebraska,4th Decile Highest Population,4636,156,218,13,,234,49,,3134,1007,8,4636,202,182,13
+31,Nebraska,5th Decile Highest Population,6104,202,291,100,,357,60,,3412,1105,10,6104,278,262,100
+31,Nebraska,6th Decile Highest Population,7668,245,410,,,529,75,,3800,1208,14,7668,426,365,
+31,Nebraska,7th Decile Highest Population,9429,373,667,974,,731,107,,4394,1322,20,9429,618,599,974
+31,Nebraska,8th Decile Highest Population,15912,510,1053,2737,,1087,164,,4789,1505,34,15912,918,962,2737
+31,Nebraska,9th Decile Highest Population,34296,880,2290,4526,,2042,351,,5347,1766,60,34296,1616,2081,4526
+31,Nebraska,10th Decile Median Population,50084,1297,6519,,,4133,1437.5,,6052,2036.5,88,50084,3170,5973,
+31,Nebraska,10th Decile Mean Population,150470,1628,25497,,,17809,3364,,6161,2181,118,150470,13040,22937,
+31,Nebraska,10th Decile Highest Population,584526,4399,486051,,,486051,11064,,9594,3977,1633,584526,486051,486051,
+32,Nevada,Number,16,0,19,28,1,71,114,0,779,1963,57409,17,71,133,28
+32,Nevada,Number with 0 Population,0,0,0,2,0,1,0,0,7,10,22160,0,1,0,2
+32,Nevada,Median Population (Non-0),13183,0,14885,236,58639,1995,662,0,3963,1392,48,17285,1935,912,215
+32,Nevada,Mean Population (Non-0),190373,0,93026,479,58639,44352,10563,0,4022,1590,88,182624,43727,22343,445
+32,Nevada,1st Decile (>0) Lowest Population,729,,990,20,,25,4,,12,2,1,729,25,4,20
+32,Nevada,1st Decile (>0) Median Population,729,,1113.5,27,,82,27,,1638,635,4,729,82,34,27
+32,Nevada,1st Decile (>0) Highest Population,729,,1237,34,,244,47,,2001,776,7,729,244,49,34
+32,Nevada,2nd Decile Highest Population,4104,,2050,95,,398,127,,2687,957,15,4104,398,155,95
+32,Nevada,3rd Decile Highest Population,4554,,3924,106,,928,202,,3178,1096,25,4554,928,249,106
+32,Nevada,4th Decile Highest Population,5734,,8431,144,,1170,315,,3549,1228,36,6650,1170,464,144
+32,Nevada,5th Decile Highest Population,9080,,14885,234,58639,1935,656,,3962,1392,48,17285,1935,912,234
+32,Nevada,6th Decile Highest Population,25516,,20564,261,,3534,933,,4260,1568,62,25516,3534,1343,261
+32,Nevada,7th Decile Highest Population,49488,,58639,291,,8231,1558,,4749,1735,81,51591,8231,3118,291
+32,Nevada,8th Decile Highest Population,53702,,262527,723,,23048,4379,,5274,1977,111,58639,23048,8658,723
+32,Nevada,9th Decile Highest Population,486492,,317610,1027,,59625,14967,,6110,2474,182,486492,59625,30744,1027
+32,Nevada,10th Decile Median Population,2265461,,641903,2578,,85388,44738,,6738,3346,303,2265461,85388,205618,2578
+32,Nevada,10th Decile Mean Population,2265461,,641903,2578,,376042,95352,,6959,3800,412,2265461,376042,201367,2578
+32,Nevada,10th Decile Highest Population,2265461,,641903,3223,,2014651,221831,,11099,11099,3224,2265461,2014651,641903,3223
+33,New Hampshire,Number,10,221,13,0,0,38,87,0,350,997,31948,10,259,100,0
+33,New Hampshire,Number with 0 Population,0,0,0,0,0,14,0,0,2,2,6631,0,14,0,0
+33,New Hampshire,Median Population (Non-0),83788,2467,21956,0,0,9083,1285,0,3892,1292,29,83788,2377,1528,0
+33,New Hampshire,Mean Population (Non-0),137753,4262,33485,0,0,18147,2621,0,3958,1384,54,137753,5319,6634,0
+33,New Hampshire,1st Decile (>0) Lowest Population,31268,68,8741,,,1,152,,6,6,1,31268,1,152,
+33,New Hampshire,1st Decile (>0) Median Population,31268,340,8741,,,1,198.5,,1746.5,657,4,31268,112.5,207,
+33,New Hampshire,1st Decile (>0) Highest Population,31268,629,8741,,,1,273,,2103,731,6,31268,353,326,
+33,New Hampshire,2nd Decile Highest Population,43063,864,9425,,,2,442,,2621,867,10,43063,813,504,
+33,New Hampshire,3rd Decile Highest Population,50107,1407,12949,,,4,711,,3019,996,15,50107,1358,843,
+33,New Hampshire,4th Decile Highest Population,63705,1776,14282,,,28,1068,,3402,1141,21,63705,1769,1108,
+33,New Hampshire,5th Decile Highest Population,76458,2467,21956,,,8741,1285,,3889,1292,28,76458,2484,1485,
+33,New Hampshire,6th Decile Highest Population,91118,3633,23047,,,12949,1571,,4230,1436,37,91118,3945,2598,
+33,New Hampshire,7th Decile Highest Population,130889,4707,32492,,,16871,2693,,4682,1611,50,130889,4872,3824,
+33,New Hampshire,8th Decile Highest Population,153808,6108,43976,,,32492,3824,,5182,1826,71,153808,6662,7534,
+33,New Hampshire,9th Decile Highest Population,314176,8478,91322,,,43976,5888,,5957,2192,119,314176,11870,12949,
+33,New Hampshire,10th Decile Median Population,422937,15653.5,115644,,,103483,9853,,6665,2488,187,422937,22501.5,27769.5,
+33,New Hampshire,10th Decile Mean Population,422937,16997,115644,,,103483,11400,,6818,2614,248,422937,29093,41521,
+33,New Hampshire,10th Decile Highest Population,422937,34317,115644,,,115644,22879,,8349,4777,2246,422937,115644,115644,
+34,New Jersey,Number,21,241,324,0,0,324,377,2,2181,6599,137972,21,565,701,2
+34,New Jersey,Number with 0 Population,0,0,0,0,0,0,0,0,6,38,24760,0,0,0,0
+34,New Jersey,Median Population (Non-0),461860,12803,6976,0,0,6976,2200,3000,4139,1317,50,461860,8374,3687,3000
+34,New Jersey,Mean Population (Non-0),442333,20092,13725,0,0,13725,4370,3000,4271,1416,82,442333,16441,8694,3000
+34,New Jersey,1st Decile (>0) Lowest Population,64837,7,9,,,9,22,,2,2,1,64837,7,9,
+34,New Jersey,1st Decile (>0) Median Population,80050,1657.5,617.5,,,617.5,173,,1875,664.5,9,80050,896.5,229.5,
+34,New Jersey,1st Decile (>0) Highest Population,95263,2670,1010,,,1010,260,,2295,775,13,95263,1536,391,
+34,New Jersey,2nd Decile Highest Population,128947,4183,2024,,,2024,479,,2906,915,22,128947,2894,881,
+34,New Jersey,3rd Decile Highest Population,154152,6016,3372,,,3372,849,,3363,1041,31,154152,4454,1616,
+34,New Jersey,4th Decile Highest Population,302294,8629,4890,,,4890,1491,828,3766,1175,39,302294,6191,2455,828
+34,New Jersey,5th Decile Highest Population,461860,12803,6971,,,6971,2200,,4139,1317,49,461860,8374,3687,
+34,New Jersey,6th Decile Highest Population,523485,17400,8778,,,8778,3033,,4563,1461,62,523485,11012,5251,
+34,New Jersey,7th Decile Highest Population,575345,23847,11079,,,11079,4296,5171,5027,1637,79,575345,15407,7777,5171
+34,New Jersey,8th Decile Highest Population,643615,31330,15049,,,15049,6594,,5670,1871,107,643615,23447,10734,
+34,New Jersey,9th Decile Highest Population,863162,47842,27263,,,27263,10594,,6374,2216,176,863162,40921,16920,
+34,New Jersey,10th Decile Median Population,909730,62268.5,53749,,,53749,14240,,7107,2525,264,909730,59136,27377,
+34,New Jersey,10th Decile Mean Population,909730,69490,72039,,,72039,19635,,7262,2692,333,909730,73389,46691,
+34,New Jersey,10th Decile Highest Population,955732,135158,311549,,,311549,92830,,12984,7080,5642,955732,311549,311549,
+35,New Mexico,Number,33,0,105,26,0,130,422,0,612,1614,107215,33,130,527,26
+35,New Mexico,Number with 0 Population,0,0,0,4,0,0,1,0,3,8,50610,0,0,1,4
+35,New Mexico,Median Population (Non-0),27172,0,1447,3435,0,3488,312,0,3338,1217,20,27172,3488,416,3195
+35,New Mexico,Mean Population (Non-0),64167,0,13596,6331,0,16289,925,0,3477,1319,37,64167,16289,3448,5357
+35,New Mexico,1st Decile (>0) Lowest Population,657,,22,684,,84,3,,3,3,1,657,84,3,684
+35,New Mexico,1st Decile (>0) Median Population,1698,,72.5,722,,248,31,,1350,610.5,2,1698,248,33,722
+35,New Mexico,1st Decile (>0) Highest Population,3579,,113,760,,360,51,,1759,698,3,3579,360,56,760
+35,New Mexico,2nd Decile Highest Population,4189,,224,1517,,1153,102,,2124,842,6,4189,1153,113,1517
+35,New Mexico,3rd Decile Highest Population,12387,,622,1819,,1650,157,,2574,979,10,12387,1650,180,1819
+35,New Mexico,4th Decile Highest Population,19191,,970,3160,,2709,228,,2942,1102,14,19191,2709,277,3160
+35,New Mexico,5th Decile Highest Population,27172,,1447,3376,,3472,312,,3338,1216,19,27172,3472,416,3376
+35,New Mexico,6th Decile Highest Population,34489,,2553,3536,,5685,479,,3735,1357,27,34489,5685,691,3536
+35,New Mexico,7th Decile Highest Population,62314,,6052,4022,,8867,749,,4107,1517,37,62314,8867,984,4022
+35,New Mexico,8th Decile Highest Population,74455,,8977,4738,,16685,1130,,4562,1743,52,74455,16685,1614,4738
+35,New Mexico,9th Decile Highest Population,148834,,21899,7460,,28752,1979,,5497,2079,82,148834,28752,4170,7460
+35,New Mexico,10th Decile Median Population,219561,,47523,37946.5,,51736,3175,,6294,2368.5,122,219561,51736,8842,37946.5
+35,New Mexico,10th Decile Mean Population,350276,,110475,37947,,107767,5155,,6626,2519,164,350276,107767,28928,37947
+35,New Mexico,10th Decile Highest Population,676444,,564559,64571,,641085,38338,,10658,4819,1519,676444,641085,564559,64571
+36,New York,Number,62,938,596,10,0,76,697,1,5411,16070,288819,62,1014,1293,11
+36,New York,Number with 0 Population,0,0,0,0,0,3,0,0,53,331,58480,0,3,0,0
+36,New York,Median Population (Non-0),87716,2797,2038,988,0,15600,1691,2572,3602,1194,40,87716,3097,1884,1145
+36,New York,Mean Population (Non-0),325827,19096,21831,7939,0,31353,5299,2572,3770,1284,88,325827,19922,12919,7451
+36,New York,1st Decile (>0) Lowest Population,5107,27,50,20,,7,44,,1,1,1,5107,7,44,20
+36,New York,1st Decile (>0) Median Population,25678,633,308,20,,43,171,,1442,628,4,25678,567,208,20
+36,New York,1st Decile (>0) Highest Population,33814,863,447,20,,498,261,,1795,720,6,33814,859,335,20
+36,New York,2nd Decile Highest Population,46809,1284,689,261,,4605,438,,2288,849,13,46809,1304,537,261
+36,New York,3rd Decile Highest Population,53324,1692,1004,436,,9210,662,,2725,969,20,53324,1757,836,436
+36,New York,4th Decile Highest Population,65737,2143,1517,819,,12743,1085,,3164,1083,29,65737,2247,1277,819
+36,New York,5th Decile Highest Population,84148,2791,2037,831,,15600,1691,2572,3601,1194,40,84148,3112,1884,1145
+36,New York,6th Decile Highest Population,112458,3852,2939,1145,,19949,2719,,4001,1320,54,112458,4314,2841,2572
+36,New York,7th Decile Highest Population,198683,5536,4554,2676,,28365,4398,,4491,1472,72,198683,6215,4507,2676
+36,New York,8th Decile Highest Population,338329,8348,7347,3663,,32127,7657,,5137,1668,105,338329,10551,7482,3663
+36,New York,9th Decile Highest Population,1004457,18311,15131,6664,,67047,15404,,6044,1979,192,1004457,24069,15205,6664
+36,New York,10th Decile Median Population,1610085.5,33712,28365,62877,,148620,21580,,6809,2258,337,1610085.5,39438,26016,62877
+36,New York,10th Decile Mean Population,1871690,157719,193100,62877,,157530,27175,,7187,2406,450,1871690,159604,102973,62877
+36,New York,10th Decile Highest Population,2736074,2736074,8804190,62877,,278349,76829,,17222,9343,5091,2736074,2736074,8804190,62877
+37,North Carolina,Number,100,0,551,1,0,1041,225,7,2672,7111,236638,100,1041,776,8
+37,North Carolina,Number with 0 Population,0,0,0,0,0,1,1,0,17,35,61650,0,1,1,0
+37,North Carolina,Median Population (Non-0),51353,0,1608,9233,0,3397,998,6947,3727,1325,29,51353,3395,1372,7880
+37,North Carolina,Mean Population (Non-0),104394,0,10921,9233,0,10038,1977,85100,3932,1475,60,104394,10028,8325,75617
+37,North Carolina,1st Decile (>0) Lowest Population,3245,,13,,,8,6,,2,2,1,3245,8,6,
+37,North Carolina,1st Decile (>0) Median Population,10416.5,,136,,,530.5,149.5,,1626,630,4,10416.5,530.5,143.5,
+37,North Carolina,1st Decile (>0) Highest Population,12276,,214,,,772,217,,2019,724,6,12276,772,217,
+37,North Carolina,2nd Decile Highest Population,19328,,413,,,1358,318,1482,2534,885,10,19328,1358,374,1482
+37,North Carolina,3rd Decile Highest Population,28774,,638,,,1896,446,2343,2912,1032,15,28774,1896,577,2343
+37,North Carolina,4th Decile Highest Population,42578,,997,,,2558,643,6901,3358,1171,21,42578,2558,867,6901
+37,North Carolina,5th Decile Highest Population,50623,,1608,9233,,3395,994,6947,3727,1325,29,50623,3395,1373,6947
+37,North Carolina,6th Decile Highest Population,64444,,2655,,,4890,1402,,4117,1488,38,64444,4890,2174,8812
+37,North Carolina,7th Decile Highest Population,91096,,4225,,,7212,2029,8812,4584,1698,52,91096,7212,3456,9233
+37,North Carolina,8th Decile Highest Population,144171,,7656,,,11346,3184,58504,5145,1973,75,144171,11346,5108,58504
+37,North Carolina,9th Decile Highest Population,225702,,17808,,,20531,5021,510711,6114,2405,130,225702,20531,13181,510711
+37,North Carolina,10th Decile Median Population,329780.5,,34562,,,34692.5,7662,,6887,2814,214,329780.5,34692.5,27156,
+37,North Carolina,10th Decile Mean Population,478981,,83431,,,57533,8591,,7391,3048,289,478981,57533,64123,
+37,North Carolina,10th Decile Highest Population,1129410,,874579,,,874579,16582,,14610,8962,3419,1129410,874579,874579,
+38,North Dakota,Number,53,1309,357,5,0,453,49,0,228,632,84566,53,1762,406,5
+38,North Dakota,Number with 0 Population,0,1,0,0,0,3,0,0,0,1,44368,0,4,0,0
+38,North Dakota,Median Population (Non-0),3990,45,158,3898,0,170,61,0,2901,1074,7,3990,52,140,3898
+38,North Dakota,Mean Population (Non-0),14700,92,1691,4769,0,1463,351,0,3417,1235,19,14700,442,1529,4769
+38,North Dakota,1st Decile (>0) Lowest Population,706,1,1,,,1,7,,706,8,1,706,1,1,
+38,North Dakota,1st Decile (>0) Median Population,1265,12,15,,,11.5,13,,1339.5,575.5,1,1265,12,13,
+38,North Dakota,1st Decile (>0) Highest Population,1798,17,22,,,21,13,,1509,638,1,1798,18,20,
+38,North Dakota,2nd Decile Highest Population,2200,26,42,206,,40,16,,1855,736,2,2200,27,38,206
+38,North Dakota,3rd Decile Highest Population,2394,32,73,,,68,29,,2268,844,4,2394,34,64,
+38,North Dakota,4th Decile Highest Population,3301,38,102,3787,,100,41,,2427,951,5,3301,42,94,3787
+38,North Dakota,5th Decile Highest Population,3990,45,158,3898,,170,61,,2881,1074,7,3990,52,139,3898
+38,North Dakota,6th Decile Highest Population,5703,53,238,,,254,92,,3573,1209,9,5703,69,223,
+38,North Dakota,7th Decile Highest Population,8350,68,379,7605,,402,197,,4028,1370,13,8350,93,368,7605
+38,North Dakota,8th Decile Highest Population,12187,89,718,,,749,488,,4916,1640,22,12187,152,692,
+38,North Dakota,9th Decile Highest Population,33646,142,1357,8350,,1361,1146,,5780,2029,44,33646,396,1300,8350
+38,North Dakota,10th Decile Median Population,73170,265,2764,,,2764,1756,,6628,2468,74,73170,924,2494,
+38,North Dakota,10th Decile Mean Population,93404,491,14824,,,12197,2422,,7226,2706,107,93404,3793,13251,
+38,North Dakota,10th Decile Highest Population,184525,4293,125990,,,125990,5017,,12559,6164,1379,184525,125990,125990,
+39,Ohio,Number,88,1313,926,0,0,288,339,0,3168,9472,276428,88,1601,1265,0
+39,Ohio,Number with 0 Population,0,0,0,0,0,5,0,0,10,37,56759,0,5,0,0
+39,Ohio,Median Population (Non-0),58552,2076,1419,0,0,9521,742,0,3596,1122,29,58552,2425,1172,0
+39,Ohio,Mean Population (Non-0),134085,4454,8280,0,0,21029,1988,0,3736,1251,54,134085,7370,6594,0
+39,Ohio,1st Decile (>0) Lowest Population,12800,6,28,,,4,16,,3,1,1,12800,4,16,
+39,Ohio,1st Decile (>0) Median Population,14299,521,127,,,324.5,143,,1485,585,4,14299,521,129.5,
+39,Ohio,1st Decile (>0) Highest Population,22210,721,183,,,739,178,,1852,657,6,22210,726,180,
+39,Ohio,2nd Decile Highest Population,30696,1031,326,,,2087,257,,2423,782,10,30696,1061,305,
+39,Ohio,3rd Decile Highest Population,38714,1293,543,,,3741,350,,2799,892,15,38714,1402,457,
+39,Ohio,4th Decile Highest Population,43824,1648,867,,,6294,492,,3233,1001,21,43824,1866,721,
+39,Ohio,5th Decile Highest Population,58539,2076,1409,,,9521,742,,3596,1121,29,58539,2439,1172,
+39,Ohio,6th Decile Highest Population,66497,2660,2335,,,13021,1129,,3988,1263,38,66497,3309,1788,
+39,Ohio,7th Decile Highest Population,101877,3598,4137,,,17291,1567,,4412,1429,52,101877,4674,3356,
+39,Ohio,8th Decile Highest Population,167966,5145,9107,,,24007,3158,,4968,1650,72,167966,7870,6386,
+39,Ohio,9th Decile Highest Population,312964,9399,19062,,,37788,5352,,5731,2016,114,312964,15642,14115,
+39,Ohio,10th Decile Median Population,538868.5,15969,32294,,,51885,8188,,6468,2336,177,538868.5,27876,24944,
+39,Ohio,10th Decile Mean Population,711686,22087,55712,,,118182,9721,,6760,2513,239,711686,43894,45375,
+39,Ohio,10th Decile Highest Population,1323807,64830,905748,,,880329,29594,,12131,8959,3494,1323807,880329,905748,
+40,Oklahoma,Number,77,0,589,1,0,305,254,29,1205,3374,180154,77,305,843,30
+40,Oklahoma,Number with 0 Population,0,0,1,0,0,0,0,0,1,34,58328,0,0,1,0
+40,Oklahoma,Median Population (Non-0),21384,0,521,45818,0,3564,176,6602,3127,1076,15,21384,3564,339,8146
+40,Oklahoma,Mean Population (Non-0),51420,0,5206,45818,0,12981,329,89005,3288,1185,33,51420,12981,3730,87565
+40,Oklahoma,1st Decile (>0) Lowest Population,2296,,3,,,247,11,233,1,1,1,2296,247,3,233
+40,Oklahoma,1st Decile (>0) Median Population,3442,,52,,,665,27,257,1342,548,2,3442,665,35,257
+40,Oklahoma,1st Decile (>0) Highest Population,4484,,80,,,1068,38,743,1610,630,3,4484,1068,62,743
+40,Oklahoma,2nd Decile Highest Population,7782,,135,,,1585,65,1900,2059,738,5,7782,1585,101,1900
+40,Oklahoma,3rd Decile Highest Population,10812,,241,,,2065,83,4029,2466,845,8,10812,2065,164,4029
+40,Oklahoma,4th Decile Highest Population,14143,,350,,,2626,136,5112,2798,949,11,14143,2626,244,5112
+40,Oklahoma,5th Decile Highest Population,21384,,518,45818,,3564,175,6602,3126,1076,15,21384,3564,339,6602
+40,Oklahoma,6th Decile Highest Population,30285,,827,,,4715,229,15412,3491,1207,20,30285,4715,519,15412
+40,Oklahoma,7th Decile Highest Population,41662,,1299,,,6715,292,26259,3857,1371,28,41662,6715,854,26259
+40,Oklahoma,8th Decile Highest Population,48129,,2775,,,9138,442,186628,4409,1593,42,48129,9138,1492,126987
+40,Oklahoma,9th Decile Highest Population,80981,,7146,,,21157,816,306460,5173,1934,70,80981,21157,4228,226984
+40,Oklahoma,10th Decile Median Population,154405,,17580,,,42762,1220,663181,5801.5,2242,106,154405,42762,10866.5,513178
+40,Oklahoma,10th Decile Mean Population,316216,,43609,,,89506,1423,663181,6038,2366,157,316216,89506,31822,544274
+40,Oklahoma,10th Decile Highest Population,796292,,681054,,,626430,3193,813184,11132,5284,3329,796292,626430,681054,813184
+41,Oregon,Number,36,0,240,11,0,212,186,0,1001,2970,130807,36,212,426,11
+41,Oregon,Number with 0 Population,0,0,0,1,0,0,0,0,8,10,51726,0,0,0,1
+41,Oregon,Median Population (Non-0),45734,0,2032,286,0,5111,471,0,4134,1330,28,45734,5111,1151,229
+41,Oregon,Mean Population (Non-0),117702,0,12457,845,0,19987,2470,0,4267,1432,54,117702,19987,8096,768
+41,Oregon,1st Decile (>0) Lowest Population,1451,,25,25,,125,3,,55,4,1,1451,125,3,25
+41,Oregon,1st Decile (>0) Median Population,1870,,138.5,25,,564,60,,1988,690,3,1870,564,77.5,25
+41,Oregon,1st Decile (>0) Highest Population,1995,,204,25,,837,80,,2373,784,5,1995,837,134,25
+41,Oregon,2nd Decile Highest Population,8160,,502,77,,1506,163,,2918,922,9,8160,1506,259,77
+41,Oregon,3rd Decile Highest Population,23977,,858,85,,2664,260,,3300,1050,14,23977,2664,427,85
+41,Oregon,4th Decile Highest Population,26196,,1328,133,,3853,339,,3759,1189,20,26196,3853,680,133
+41,Oregon,5th Decile Highest Population,41072,,2011,229,,5093,470,,4134,1329,28,41072,5093,1147,229
+41,Oregon,6th Decile Highest Population,69413,,3206,343,,6496,768,,4534,1464,37,69413,6496,1911,343
+41,Oregon,7th Decile Highest Population,88090,,5641,604,,10671,1228,,4979,1660,49,88090,10671,3198,604
+41,Oregon,8th Decile Highest Population,128610,,10484,685,,14514,2328,,5580,1892,68,128610,14514,7223,685
+41,Oregon,9th Decile Highest Population,382971,,23733,2861,,34123,7503,,6385,2240,116,382971,34123,16740,2861
+41,Oregon,10th Decile Median Population,600372,,47635,3403,,72369,11571,,7080,2547,187,600372,72369,27657.5,3403
+41,Oregon,10th Decile Mean Population,612400,,88520,3403,,139508,16096,,7299,2670,249,612400,139508,60177,3403
+41,Oregon,10th Decile Highest Population,815428,,652503,3403,,509591,53828,,10964,7964,2884,815428,509591,652503,3403
+42,Pennsylvania,Number,67,1546,1013,0,0,1026,875,0,3446,10173,336985,67,2572,1888,0
+42,Pennsylvania,Number with 0 Population,0,0,0,0,0,1,0,0,15,68,61962,0,1,0,0
+42,Pennsylvania,Median Population (Non-0),83938,2046,1476,0,0,1458,798,0,3678,1184,27,83938,1839,1089,0
+42,Pennsylvania,Mean Population (Non-0),194070,4739,5603,0,0,5537,1838,0,3790,1287,47,194070,5055,3858,0
+42,Pennsylvania,1st Decile (>0) Lowest Population,4547,7,5,,,3,11,,1,1,1,4547,3,5,
+42,Pennsylvania,1st Decile (>0) Median Population,10764.5,326.5,146,,,141,83,,1542,616,4,10764.5,204,110,
+42,Pennsylvania,1st Decile (>0) Highest Population,18136,498,223,,,214,133,,1923,697,6,18136,344,176,
+42,Pennsylvania,2nd Decile Highest Population,38434,856,411,,,399,255,,2422,823,10,38434,623,329,
+42,Pennsylvania,3rd Decile Highest Population,44492,1179,643,,,630,402,,2850,940,15,44492,953,504,
+42,Pennsylvania,4th Decile Highest Population,59967,1540,962,,,945,568,,3262,1059,20,59967,1331,728,
+42,Pennsylvania,5th Decile Highest Population,83938,2046,1476,,,1458,798,,3678,1184,26,83938,1840,1088,
+42,Pennsylvania,6th Decile Highest Population,122822,2748,2185,,,2154,1144,,4053,1316,34,122822,2545,1550,
+42,Pennsylvania,7th Decile Highest Population,168215,3983,3166,,,3120,1611,,4527,1482,46,168215,3676,2433,
+42,Pennsylvania,8th Decile Highest Population,286401,6383,4804,,,4762,2525,,5083,1705,64,286401,5495,3775,
+42,Pennsylvania,9th Decile Highest Population,534413,12041,8130,,,8130,4546,,5902,2049,103,534413,10160,6443,
+42,Pennsylvania,10th Decile Median Population,751545.5,19091.5,12738,,,12894,6995,,6598,2356,152,751545.5,17451,9641,
+42,Pennsylvania,10th Decile Mean Population,914547,22930,38568,,,38190,8931,,6738,2466,201,914547,29220,25177,
+42,Pennsylvania,10th Decile Highest Population,1603797,85681,1603797,,,1603797,52699,,9738,7317,3163,1603797,1603797,1603797,
+44,Rhode Island,Number,0,31,8,1,5,8,28,0,250,792,25649,5,39,36,1
+44,Rhode Island,Number with 0 Population,0,0,0,1,0,0,0,0,4,5,4267,0,0,0,1
+44,Rhode Island,Median Population (Non-0),0,16158,61372,0,129839,61372,1657,0,4481,1278,37,129839,17871,2589,0
+44,Rhode Island,Mean Population (Non-0),0,16999,71303,0,219476,71303,3932,0,4461,1394,51,219476,28138,18904,0
+44,Rhode Island,1st Decile (>0) Lowest Population,,1410,,,,,212,,1410,1,1,,1410,212,
+44,Rhode Island,1st Decile (>0) Median Population,,3616,,,,,262,,2107,704.5,7,,4042.5,312,
+44,Rhode Island,1st Decile (>0) Highest Population,,4469,,,,,312,,2602,779,11,,5559,333,
+44,Rhode Island,2nd Decile Highest Population,,6528,22583,,50793,22583,422,,3152,926,17,50793,8020,467,
+44,Rhode Island,3rd Decile Highest Population,,8398,25163,,,25163,475,,3523,1033,23,,11147,1036,
+44,Rhode Island,4th Decile Highest Population,,11147,43240,,85643,43240,1036,,3942,1154,29,85643,16158,1609,
+44,Rhode Island,5th Decile Highest Population,,16158,47139,,129839,47139,1609,,4469,1278,36,129839,17871,1870,
+44,Rhode Island,6th Decile Highest Population,,17153,75604,,,75604,1745,,4728,1423,45,,22583,7825,
+44,Rhode Island,7th Decile Highest Population,,22493,82823,,170363,82823,4641,,5030,1576,56,170363,29568,9061,
+44,Rhode Island,8th Decile Highest Population,,27732,82934,,,82934,8140,,5745,1787,72,,35688,22583,
+44,Rhode Island,9th Decile Highest Population,,31931,190934,,660741,190934,12094,,6679,2144,104,660741,75604,75604,
+44,Rhode Island,10th Decile Median Population,,35688,,,,,15380,,7157.5,2528.5,141,,82934,82934,
+44,Rhode Island,10th Decile Mean Population,,35402,,,,,15380,,7241,2672,170,,118897,118897,
+44,Rhode Island,10th Decile Highest Population,,36405,,,,,18423,,8281,6495,1374,,190934,190934,
+45,South Carolina,Number,46,0,271,1,0,299,204,7,1323,3408,146844,46,299,475,8
+45,South Carolina,Number with 0 Population,0,0,0,0,0,0,0,0,9,17,41375,0,0,0,0
+45,South Carolina,Median Population (Non-0),59561,0,1390,849,0,5930,1250,1292,3595,1323,23,59561,5930,1321,1154
+45,South Carolina,Mean Population (Non-0),111270,0,6957,849,0,17118,3197,2297,3895,1509,49,111270,17118,5342,2116
+45,South Carolina,1st Decile (>0) Lowest Population,8039,,37,,,291,49,,3,3,1,8039,291,37,
+45,South Carolina,1st Decile (>0) Median Population,11418.5,,98,,,1561,90.5,,1404,610,3,11418.5,1561,98,
+45,South Carolina,1st Decile (>0) Highest Population,14119,,140,,,2017,136,,1838,700,5,14119,2017,140,
+45,South Carolina,2nd Decile Highest Population,20948,,257,,,2777,273,39,2378,858,8,20948,2777,263,39
+45,South Carolina,3rd Decile Highest Population,28292,,472,,,3561,453,452,2770,1018,12,28292,3561,471,452
+45,South Carolina,4th Decile Highest Population,31144,,764,,,4730,807,1015,3184,1167,17,31144,4730,772,849
+45,South Carolina,5th Decile Highest Population,56216,,1390,849,,5930,1244,1292,3592,1322,23,56216,5930,1321,1015
+45,South Carolina,6th Decile Highest Population,69351,,2078,,,8760,1719,,4009,1503,30,69351,8760,1997,1292
+45,South Carolina,7th Decile Highest Population,105556,,3366,,,13032,2514,2767,4529,1720,41,105556,13032,3076,2767
+45,South Carolina,8th Decile Highest Population,187117,,6448,,,20963,4409,4242,5190,1978,57,187117,20963,5411,4242
+45,South Carolina,9th Decile Highest Population,327997,,17681,,,41578,9990,6269,6367,2516,98,327997,41578,13240,6269
+45,South Carolina,10th Decile Median Population,412191,,35308,,,81718,14829,,7501,3034,164,412191,81718,23342,
+45,South Carolina,10th Decile Mean Population,425236,,47520,,,92076,15653,,7947,3381,243,425236,92076,34466,
+45,South Carolina,10th Decile Highest Population,525534,,150227,,,299989,23342,,14020,7716,2581,525534,299989,150227,
+46,South Dakota,Number,66,904,311,12,0,427,175,0,242,694,71383,66,1331,486,12
+46,South Dakota,Number with 0 Population,0,1,0,3,0,0,8,0,0,0,30617,0,1,8,3
+46,South Dakota,Median Population (Non-0),5281,78,288,6588,0,285,114,0,3354,1118,9,5281,105,173,2988
+46,South Dakota,Mean Population (Non-0),13434,148,2042,6945,0,1763,349,0,3664,1278,22,13434,666,1427,5208
+46,South Dakota,1st Decile (>0) Lowest Population,917,2,2,415,,2,1,,917,158,1,917,2,1,415
+46,South Dakota,1st Decile (>0) Median Population,1344,12,20,415,,13,6,,1566.5,611,1,1344,13,10,415
+46,South Dakota,1st Decile (>0) Highest Population,1663,19,41,415,,27,9,,1808,680,1,1663,21,22,415
+46,South Dakota,2nd Decile Highest Population,2411,31,68,1630,,63,28,,2240,773,3,2411,34,55,1630
+46,South Dakota,3rd Decile Highest Population,2980,41,111,2054,,111,55,,2551,884,4,2980,51,92,2054
+46,South Dakota,4th Decile Highest Population,3902,56,163,3921,,177,93,,2890,990,6,3902,73,127,3921
+46,South Dakota,5th Decile Highest Population,5247,78,283,6588,,285,114,,3344,1117,8,5247,104,181,6588
+46,South Dakota,6th Decile Highest Population,6361,104,468,7639,,454,140,,3772,1266,12,6361,148,306,7639
+46,South Dakota,7th Decile Highest Population,8673,144,634,10570,,631,236,,4300,1407,17,8673,215,503,10570
+46,South Dakota,8th Decile Highest Population,14967,204,1047,10837,,1060,388,,5218,1699,27,14967,346,776,10837
+46,South Dakota,9th Decile Highest Population,28325,304,2372,18847,,2723,718,,6122,2103,49,28325,755,1567,18847
+46,South Dakota,10th Decile Median Population,51731,440.5,6191,,,5866.5,1368.5,,6755,2537,77,51731,1747.5,3354,
+46,South Dakota,10th Decile Mean Population,79021,660,16739,,,13881,2109,,6804,2685,111,79021,5376,11959,
+46,South Dakota,10th Decile Highest Population,197214,4683,192517,,,156355,8098,,8657,5886,2075,197214,156355,192517,
+47,Tennessee,Number,95,0,344,1,0,844,160,0,1701,4562,179717,95,844,504,1
+47,Tennessee,Number with 0 Population,0,0,0,0,0,0,0,0,8,12,45871,0,0,0,0
+47,Tennessee,Median Population (Non-0),32043,0,1965,73,0,4475,591,0,3933,1411,26,32043,4475,1414,73
+47,Tennessee,Mean Population (Non-0),72746,0,10160,73,0,8188,5830,0,4082,1519,52,72746,8188,8786,73
+47,Tennessee,1st Decile (>0) Lowest Population,5001,,66,,,733,58,,1,1,1,5001,733,58,
+47,Tennessee,1st Decile (>0) Median Population,7005,,250.5,,,1232.5,83.5,,1689,675,3,7005,1232.5,112,
+47,Tennessee,1st Decile (>0) Highest Population,11435,,335,,,1582,100,,2096,792,5,11435,1582,217,
+47,Tennessee,2nd Decile Highest Population,15826,,545,,,2431,166,,2637,979,9,15826,2431,366,
+47,Tennessee,3rd Decile Highest Population,18990,,886,,,2934,274,,3085,1119,13,18990,2934,555,
+47,Tennessee,4th Decile Highest Population,25216,,1422,,,3697,397,,3499,1274,18,25216,3697,898,
+47,Tennessee,5th Decile Highest Population,32043,,1949,73,,4470,586,,3933,1410,25,32043,4470,1406,73
+47,Tennessee,6th Decile Highest Population,40953,,2824,,,5598,882,,4309,1561,34,40953,5598,2060,
+47,Tennessee,7th Decile Highest Population,54315,,4998,,,7132,1279,,4812,1742,47,54315,7132,3286,
+47,Tennessee,8th Decile Highest Population,70152,,8397,,,10667,2087,,5383,1979,67,70152,10667,5953,
+47,Tennessee,9th Decile Highest Population,147737,,16164,,,17991,3978,,6227,2385,113,147737,17991,12212,
+47,Tennessee,10th Decile Median Population,341486,,43060.5,,,21521,7787.5,,7051,2742,180,341486,21521,31654.5,
+47,Tennessee,10th Decile Mean Population,406059,,73909,,,34310,50669,,7446,2954,243,406059,34310,68295,
+47,Tennessee,10th Decile Highest Population,929744,,633104,,,80616,689447,,12357,7588,2641,929744,80616,689447,
+48,Texas,Number,254,0,1220,3,0,862,640,0,6896,18638,668757,254,862,1860,3
+48,Texas,Number with 0 Population,0,0,1,0,0,0,2,0,28,77,219672,0,0,3,0
+48,Texas,Median Population (Non-0),18484,0,1835,679,0,4826,379,0,3963,1401,32,18484,4826,1156,679
+48,Texas,Mean Population (Non-0),114746,0,17306,727,0,33811,2173,0,4244,1570,65,114746,33811,12087,727
+48,Texas,1st Decile (>0) Lowest Population,64,,22,,,58,1,,1,1,1,64,58,1,
+48,Texas,1st Decile (>0) Median Population,1372,,181,,,439.5,24,,1756,654,3,1372,439.5,66,
+48,Texas,1st Decile (>0) Highest Population,2451,,273,,,771,49,,2145,763,5,2451,771,117,
+48,Texas,2nd Decile Highest Population,4838,,483,,,1519,94,,2628,933,10,4838,1519,248,
+48,Texas,3rd Decile Highest Population,7694,,795,377,,2343,153,,3111,1083,15,7694,2343,436,377
+48,Texas,4th Decile Highest Population,12164,,1246,,,3382,231,,3549,1241,22,12164,3382,727,
+48,Texas,5th Decile Highest Population,18385,,1835,679,,4819,375,,3962,1401,32,18385,4819,1165,679
+48,Texas,6th Decile Highest Population,24435,,2878,,,7113,622,,4405,1577,44,24435,7113,1854,
+48,Texas,7th Decile Highest Population,42545,,4781,,,10895,1035,,4889,1795,59,42545,10895,3057,
+48,Texas,8th Decile Highest Population,68839,,9613,1124,,20106,1981,,5541,2078,82,68839,20106,5737,1124
+48,Texas,9th Decile Highest Population,179927,,24479,,,52206,4061,,6633,2501,129,179927,52206,16267,
+48,Texas,10th Decile Median Population,421017,,61032,,,127666.5,8509,,7589,2953,212,421017,127666.5,36914,
+48,Texas,10th Decile Mean Population,895107,,142167,,,266300,15584,,8392,3384,316,895107,266300,101417,
+48,Texas,10th Decile Highest Population,4731145,,2304580,,,3464066,114436,,30199,19522,7576,4731145,3464066,2304580,
+49,Utah,Number,29,0,254,7,0,93,79,0,716,2020,71207,29,93,333,7
+49,Utah,Number with 0 Population,0,0,0,1,0,2,1,0,3,6,24415,0,2,1,1
+49,Utah,Median Population (Non-0),20412,0,1588,204,0,5142,425,0,4407,1477,47,20412,5017,1054,178
+49,Utah,Mean Population (Non-0),112814,0,12045,5298,0,35952,978,0,4589,1624,70,112814,35179,9417,4541
+49,Utah,1st Decile (>0) Lowest Population,935,,26,,,1,4,,10,5,1,935,1,4,
+49,Utah,1st Decile (>0) Median Population,1438,,160,,,115,21,,2149,706,4,1438,115,115.5,
+49,Utah,1st Decile (>0) Highest Population,2486,,231,,,150,38,,2551,846,7,2486,150,167,
+49,Utah,2nd Decile Highest Population,7072,,405,13,,1045,147,,3162,1037,15,7072,1045,278,13
+49,Utah,3rd Decile Highest Population,9825,,595,96,,2147,184,,3626,1189,25,9825,2147,442,96
+49,Utah,4th Decile Highest Population,12975,,949,,,3562,284,,4014,1334,36,12975,3562,662,
+49,Utah,5th Decile Highest Population,20412,,1588,178,,5142,423,,4407,1477,47,20412,5142,1054,178
+49,Utah,6th Decile Highest Population,34788,,3509,230,,7820,546,,4923,1628,60,34788,7820,1645,230
+49,Utah,7th Decile Highest Population,57289,,7833,,,11777,702,,5319,1841,75,57289,11777,4231,
+49,Utah,8th Decile Highest Population,133154,,16739,6076,,28712,1076,,5887,2107,99,133154,28712,9362,6076
+49,Utah,9th Decile Highest Population,362679,,36028,25192,,90654,1840,,6762,2543,149,362679,90654,31965,25192
+49,Utah,10th Decile Median Population,922318.5,,60448,,,148978,4231,,7371,2949,213,922318.5,148978,50637,
+49,Utah,10th Decile Mean Population,922319,,73883,,,265515,5775,,7905,3339,263,922319,265515,64284,
+49,Utah,10th Decile Highest Population,1185238,,199723,,,1039271,9851,,15965,11206,3159,1185238,1039271,199723,
+50,Vermont,Number,14,237,41,0,0,18,139,0,193,552,24611,14,255,180,0
+50,Vermont,Number with 0 Population,0,0,0,0,0,2,0,0,1,2,6635,0,2,0,0
+50,Vermont,Median Population (Non-0),37355,1337,783,0,0,3504,361,0,3018,1093,18,37355,1337,425,0
+50,Vermont,Mean Population (Non-0),45934,2210,3765,0,0,7461,880,0,3349,1169,36,45934,2522,1537,0
+50,Vermont,1st Decile (>0) Lowest Population,5920,70,87,,,2,23,,1005,3,1,5920,2,23,
+50,Vermont,1st Decile (>0) Median Population,5920,217,132,,,2,84,,1544,534,2,5920,153,91.5,
+50,Vermont,1st Decile (>0) Highest Population,5920,380,166,,,2,111,,1763,644,3,5920,355,127,
+50,Vermont,2nd Decile Highest Population,25945,672,281,,,6,174,,2193,793,6,25945,638,186,
+50,Vermont,3rd Decile Highest Population,27393,916,447,,,16,225,,2486,883,9,27393,903,238,
+50,Vermont,4th Decile Highest Population,30233,1157,635,,,21,266,,2789,968,13,30233,1149,303,
+50,Vermont,5th Decile Highest Population,37347,1337,783,,,2553,361,,3016,1092,17,37347,1338,424,
+50,Vermont,6th Decile Highest Population,45905,1663,1136,,,6877,451,,3530,1226,24,45905,1683,635,
+50,Vermont,7th Decile Highest Population,49946,2133,2086,,,7997,699,,4060,1341,33,49946,2214,818,
+50,Vermont,8th Decile Highest Population,59807,2920,4455,,,8491,1132,,4357,1493,48,59807,3129,1333,
+50,Vermont,9th Decile Highest Population,60572,4774,8491,,,20292,2139,,5223,1798,79,60572,5223,2803,
+50,Vermont,10th Decile Median Population,168323,7364,18049.5,,,44743,3804,,5983,2079,123,168323,8491,7328,
+50,Vermont,10th Decile Mean Population,168323,8728,22858,,,44743,4627,,6038,2227,163,168323,11520,9876,
+50,Vermont,10th Decile Highest Population,168323,22094,44743,,,44743,8795,,8002,4444,2642,168323,44743,44743,
+51,Virginia,Number,95,0,228,2,38,552,444,3,2198,5963,163491,133,552,672,5
+51,Virginia,Number with 0 Population,0,0,0,0,0,0,0,0,23,29,46130,0,0,0,0
+51,Virginia,Median Population (Non-0),26723,0,1417,81,25548,5396,1172,1638,3739,1331,34,25781,5396,1259,193
+51,Virginia,Mean Population (Non-0),63592,0,13675,81,68162,15637,6449,1690,3968,1455,74,64898,15637,8901,1046
+51,Virginia,1st Decile (>0) Lowest Population,2232,,64,,3687,566,44,,1,1,1,2232,566,44,
+51,Virginia,1st Decile (>0) Median Population,6561,,137,,5737,1352,106,,1637.5,651,4,6270,1352,115,
+51,Virginia,1st Decile (>0) Highest Population,8533,,209,,5766,1896,143,,2073,746,6,7320,1896,168,
+51,Virginia,2nd Decile Highest Population,11936,,378,,8180,2655,249,,2613,902,11,11936,2655,286,48
+51,Virginia,3rd Decile Highest Population,15476,,533,,15425,3253,408,193,2987,1046,17,15642,3253,461,
+51,Virginia,4th Decile Highest Population,20355,,1014,48,18170,4257,718,,3362,1185,24,20355,4257,808,114
+51,Virginia,5th Decile Highest Population,26723,,1402,,25346,5376,1168,1638,3735,1330,33,25781,5376,1254,193
+51,Virginia,6th Decile Highest Population,31307,,2110,,33458,7093,2164,,4157,1492,45,33413,7093,2110,
+51,Virginia,7th Decile Highest Population,40429,,4486,114,51814,8733,5581,,4655,1694,60,42772,8733,4956,1638
+51,Virginia,8th Decile Highest Population,60501,,8059,,100011,14802,10165,3239,5352,1955,87,78254,14802,9224,
+51,Virginia,9th Decile Highest Population,109979,,24655,,226610,25346,17954,,6209,2320,156,140032,25346,19008,3239
+51,Virginia,10th Decile Median Population,334389,,65411.5,,249422,71847,25561.5,,6856,2656,271,249422,71847,33458,
+51,Virginia,10th Decile Mean Population,377823,,111140,,315632,97166,36298,,7193,2831,378,359015,97166,61003,
+51,Virginia,10th Decile Highest Population,1150309,,459470,,459470,459470,238643,,14425,14006,7908,1150309,459470,459470,
+53,Washington,Number,39,0,281,29,0,242,358,1,1784,5311,158093,39,242,639,30
+53,Washington,Number with 0 Population,0,0,0,3,0,0,0,0,13,15,46652,0,0,0,3
+53,Washington,Median Population (Non-0),65726,0,3126,760,0,6708,1266,41102,4230,1401,36,65726,6708,1942,752
+53,Washington,Mean Population (Non-0),197571,0,17923,5326,0,31840,3888,41102,4351,1455,69,197571,31840,10060,5986
+53,Washington,1st Decile (>0) Lowest Population,2286,,49,16,,21,4,,21,19,1,2286,21,4,16
+53,Washington,1st Decile (>0) Median Population,4187,,189,26,,805.5,79,,2007,764,4,4187,805.5,105.5,26
+53,Washington,1st Decile (>0) Highest Population,7178,,312,36,,1260,119,,2518,909,7,7178,1260,178,36
+53,Washington,2nd Decile Highest Population,17788,,598,93,,2376,234,,3075,1099,13,17788,2376,340,93
+53,Washington,3rd Decile Highest Population,23365,,1103,509,,3451,420,,3555,1221,19,23365,3451,605,509
+53,Washington,4th Decile Highest Population,44337,,1795,680,,4680,683,,3880,1316,27,44337,4680,1103,724
+53,Washington,5th Decile Highest Population,65726,,3126,753,,6701,1264,41102,4230,1401,36,65726,6701,1942,767
+53,Washington,6th Decile Highest Population,82149,,6568,1520,,10309,2211,,4597,1495,47,82149,10309,3140,1520
+53,Washington,7th Decile Highest Population,110730,,10621,2541,,15981,3430,,5111,1600,62,110730,15981,5146,3228
+53,Washington,8th Decile Highest Population,256728,,19868,5748,,31103,5262,,5649,1747,86,256728,31103,10148,7807
+53,Washington,9th Decile Highest Population,539339,,42853,10969,,61826,10541,,6355,2029,147,539339,61826,21798,31591
+53,Washington,10th Decile Median Population,921130,,85588.5,43003.5,,136406,20733,,6801,2335.5,239,921130,136406,38623,47759
+53,Washington,10th Decile Mean Population,1339587,,118039,43004,,219983,20984,,6998,2477,324,1339587,219983,69401,47759
+53,Washington,10th Decile Highest Population,2269675,,737015,54416,,1139259,64708,,10570,5129,3697,2269675,1139259,737015,54416
+54,West Virginia,Number,55,0,232,0,0,228,207,0,546,1639,72558,55,228,439,0
+54,West Virginia,Number with 0 Population,0,0,0,0,0,0,1,0,0,0,20708,0,0,1,0
+54,West Virginia,Median Population (Non-0),22559,0,825,0,0,4920,349,0,3231,1000,17,22559,4920,518,0
+54,West Virginia,Mean Population (Non-0),32613,0,2663,0,0,7867,813,0,3285,1094,35,32613,7867,1789,0
+54,West Virginia,1st Decile (>0) Lowest Population,5194,,5,,,190,38,,879,2,1,5194,190,5,
+54,West Virginia,1st Decile (>0) Median Population,6229,,135.5,,,1046.5,74,,1405.5,559,2,6229,1046.5,86,
+54,West Virginia,1st Decile (>0) Highest Population,7408,,173,,,1329,90,,1686,622,3,7408,1329,130,
+54,West Virginia,2nd Decile Highest Population,8378,,269,,,2036,146,,2126,713,6,8378,2036,195,
+54,West Virginia,3rd Decile Highest Population,12447,,408,,,2816,198,,2495,804,9,12447,2816,269,
+54,West Virginia,4th Decile Highest Population,17033,,611,,,3439,250,,2876,896,13,17033,3439,387,
+54,West Virginia,5th Decile Highest Population,22559,,822,,,4848,347,,3229,999,16,22559,4848,518,
+54,West Virginia,6th Decile Highest Population,25453,,1169,,,6519,461,,3596,1111,22,25453,6519,731,
+54,West Virginia,7th Decile Highest Population,32567,,1531,,,8971,575,,4049,1248,29,32567,8971,1143,
+54,West Virginia,8th Decile Highest Population,42425,,2811,,,11730,1081,,4352,1427,42,42425,11730,1631,
+54,West Virginia,9th Decile Highest Population,74591,,5433,,,17915,1654,,4796,1732,74,74591,17915,3431,
+54,West Virginia,10th Decile Median Population,105822,,10861,,,24147,3067,,5319.5,1978,122,105822,24147,6961,
+54,West Virginia,10th Decile Mean Population,117458,,16669,,,28776,4300,,5484,2068,168,117458,28776,11488,
+54,West Virginia,10th Decile Highest Population,180745,,48864,,,50212,14350,,7768,4056,3158,180745,50212,48864,
+55,Wisconsin,Number,72,1248,602,12,0,662,202,0,1542,4692,203059,72,1910,804,12
+55,Wisconsin,Number with 0 Population,0,1,0,0,0,12,0,0,16,18,58111,0,13,0,0
+55,Wisconsin,Median Population (Non-0),41377,867,1488,1474,0,1356,242,0,3730,1136,23,41377,935,940,1474
+55,Wisconsin,Mean Population (Non-0),81857,1300,7097,3668,0,6573,606,0,3862,1261,41,81857,3086,5466,3668
+55,Wisconsin,1st Decile (>0) Lowest Population,4255,36,53,4,,2,22,,3,3,1,4255,2,22,4
+55,Wisconsin,1st Decile (>0) Median Population,7318,215.5,200,4,,105,67,,1670,634,3,7318,177.5,107.5,4
+55,Wisconsin,1st Decile (>0) Highest Population,14054,316,301,4,,225,87,,2041,700,4,14054,290,159,4
+55,Wisconsin,2nd Decile Highest Population,16611,479,484,507,,402,123,,2554,812,7,16611,460,268,507
+55,Wisconsin,3rd Decile Highest Population,20563,617,694,594,,598,165,,2926,916,11,20563,610,434,594
+55,Wisconsin,4th Decile Highest Population,30066,743,1007,765,,882,194,,3375,1020,16,30066,757,630,765
+55,Wisconsin,5th Decile Highest Population,40881,867,1483,1403,,1355,242,,3728,1136,22,40881,938,939,1403
+55,Wisconsin,6th Decile Highest Population,46711,1033,2274,1545,,2051,316,,4091,1265,30,46711,1170,1483,1545
+55,Wisconsin,7th Decile Highest Population,74207,1259,3652,2968,,3318,486,,4544,1427,41,74207,1587,2462,2968
+55,Wisconsin,8th Decile Highest Population,105710,1696,7754,3293,,6919,733,,5134,1641,57,105710,2439,4504,3293
+55,Wisconsin,9th Decile Highest Population,169151,2687,14854,3518,,13519,1401,,5835,1999,88,169151,4880,11619,3518
+55,Wisconsin,10th Decile Median Population,268740,3808,26208.5,27110,,25361,2462,,6502.5,2324,129,268740,10247,20372.5,27110
+55,Wisconsin,10th Decile Mean Population,390982,4753,47252,27110,,44278,3074,,6711,2447,171,390982,20769,38740,27110
+55,Wisconsin,10th Decile Highest Population,939489,23831,577222,27110,,577222,6061,,9519,4606,2487,939489,577222,577222,27110
+56,Wyoming,Number,23,0,99,1,0,71,106,0,160,457,53769,23,71,205,1
+56,Wyoming,Number with 0 Population,0,0,0,0,0,0,2,0,0,0,30912,0,0,2,0
+56,Wyoming,Median Population (Non-0),14537,0,562,25759,0,3563,193,0,3375,1146,14,14537,3563,314,25759
+56,Wyoming,Mean Population (Non-0),25080,0,4023,25759,0,8125,510,0,3605,1262,25,25080,8125,2202,25759
+56,Wyoming,1st Decile (>0) Lowest Population,2467,,6,,,79,4,,12,12,1,2467,79,4,
+56,Wyoming,1st Decile (>0) Median Population,3544,,67,,,176,19,,1722.5,592,2,3544,176,27.5,
+56,Wyoming,1st Decile (>0) Highest Population,4621,,92,,,333,31,,1859,682,2,4621,333,41,
+56,Wyoming,2nd Decile Highest Population,7181,,184,,,616,47,,2421,843,5,7181,616,84,
+56,Wyoming,3rd Decile Highest Population,8605,,285,,,1213,79,,2653,934,7,8605,1213,145,
+56,Wyoming,4th Decile Highest Population,11521,,403,,,1783,114,,3042,1027,10,11521,1783,224,
+56,Wyoming,5th Decile Highest Population,14537,,562,25759,,3563,185,,3372,1146,13,14537,3563,319,25759
+56,Wyoming,6th Decile Highest Population,20450,,1130,,,5669,247,,3775,1295,18,20450,5669,457,
+56,Wyoming,7th Decile Highest Population,29624,,2005,,,7589,405,,4102,1464,24,29624,7589,861,
+56,Wyoming,8th Decile Highest Population,39234,,3588,,,11700,622,,4875,1718,34,39234,11700,1650,
+56,Wyoming,9th Decile Highest Population,47026,,10682,,,22274,1393,,5603,1945,54,47026,22274,4034,
+56,Wyoming,10th Decile Median Population,90233.5,,23526,,,29506,2173.5,,6159.5,2196,82,90233.5,29506,10355,
+56,Wyoming,10th Decile Mean Population,90234,,29508,,,38584,2851,,6368,2331,110,90234,38584,17055,
+56,Wyoming,10th Decile Highest Population,100512,,65132,,,76510,6199,,7786,3327,1600,100512,76510,65132,
+72,Puerto Rico,Number,78,0,0,0,0,939,292,145,981,2555,41987,78,939,292,145
+72,Puerto Rico,Number with 0 Population,0,0,0,0,0,43,0,2,48,50,5417,0,43,0,2
+72,Puerto Rico,Median Population (Non-0),31153,0,0,0,0,2048,1631,847,3427,1215,50,31153,1904,1631,838
+72,Puerto Rico,Mean Population (Non-0),42127,0,0,0,0,3667,6376,1774,3522,1312,90,42127,3499,6376,1749
+72,Puerto Rico,1st Decile (>0) Lowest Population,1792,,,,,6,89,19,2,2,1,1792,6,89,19
+72,Puerto Rico,1st Decile (>0) Median Population,8874,,,,,219,342,94.5,1257,539.5,9,8874,219,342,94.5
+72,Puerto Rico,1st Decile (>0) Highest Population,11692,,,,,403,488,153,1646,631,13,11692,403,488,153
+72,Puerto Rico,2nd Decile Highest Population,17781,,,,,710,864,347,2066,782,21,17781,710,864,347
+72,Puerto Rico,3rd Decile Highest Population,22657,,,,,1066,1067,526,2509,922,29,22657,1066,1067,526
+72,Puerto Rico,4th Decile Highest Population,24637,,,,,1467,1362,693,3018,1055,39,24637,1467,1362,693
+72,Puerto Rico,5th Decile Highest Population,30426,,,,,2045,1622,847,3427,1213,49,30426,2045,1622,847
+72,Puerto Rico,6th Decile Highest Population,35395,,,,,2813,2187,1284,3863,1384,63,35395,2813,2187,1284
+72,Puerto Rico,7th Decile Highest Population,39345,,,,,3423,3018,1736,4319,1573,81,39345,3423,3018,1736
+72,Puerto Rico,8th Decile Highest Population,47060,,,,,4552,4190,2627,4832,1795,113,47060,4552,4190,2627
+72,Puerto Rico,9th Decile Highest Population,75293,,,,,7254,8811,4682,5476,2157,196,75293,7254,8811,4682
+72,Puerto Rico,10th decile Median Population,137491,,,,,14197,14972,6588.5,6428,2447,314,137491,14197,14972,6588.5
+72,Puerto Rico,10th Decile Mean Population,160647,,,,,16984,44942,7324,6561,2524,397,160647,16984,44942,7324
+72,Puerto Rico,10th Decile Highest Population,342259,,,,,69469,322854,13893,8815,4377,2742,342259,69469,322854,13893
